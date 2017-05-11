@@ -1,0 +1,68 @@
+
+<html>
+<head>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+    google.charts.load('current', {'packages':['gantt']});
+    google.charts.setOnLoadCallback(drawChart);
+
+    function daysToMilliseconds(days) {
+      return days * 24 * 60 * 60 * 1000;
+    }
+
+    function drawChart() {
+
+      var data = new google.visualization.DataTable();
+      data.addColumn('string', 'Task ID');
+      data.addColumn('string', 'Task Name');
+      data.addColumn('date', 'Submission');
+      data.addColumn('date', 'Notification');
+      data.addColumn('number', 'Duration');
+      data.addColumn('number', 'Percent Complete');
+      data.addColumn('string', 'Dependencies');
+
+      data.addRows([
+        ['CIKM', 'CIKM 2017',
+         new Date(2017, 4, 15), new Date(2017, 7, 6), 0 , 0,  null],
+
+        ['SocInfo', 'SocInfo 2017',
+         new Date(2017, 4, 31), new Date(2017, 5, 19), 0 , 0,  null],
+
+        ['ICDM', 'ICDM 2017',
+          new Date(2017, 5, 5), new Date(2017, 9, 15), 0 , 0,  null],
+
+        ['CHI', 'CHI 2018',
+          new Date(2017, 8, 21), new Date(2017, 11, 12), 0 , 0,  null],
+
+        ['WSDM', 'WSDM 2018',
+          new Date(2017, 7, 4), new Date(2017, 9, 23), 0 , 0,  'SocInfo'],
+
+        ['WWW', 'WWW 2018 (REVISE THIS)',
+          new Date(2017, 9, 31), new Date(2017, 11, 15), 0 , 0,  'WSDM'],
+
+        ['ICWSM', 'ICWSM 2018 (REVISE THIS)',
+          new Date(2018, 0, 1), new Date(2018, 2, 24), 0 , 0,  'WWW'],
+
+        ['KDD', 'KDD 2018 (REVISE THIS)',
+          new Date(2018, 1, 10), new Date(2017, 11, 12), 0 , 0,  null],
+
+        ['MobiSys', 'MobiSys 2018 (REVISE THIS)',
+            new Date(2017, 11, 8), new Date(2018, 1, 10), 0 , 0,  null],
+
+
+      ]);
+
+      var options = {
+        height: 1000
+      };
+
+      var chart = new google.visualization.Gantt(document.getElementById('chart_div'));
+
+      chart.draw(data, options);
+    }
+  </script>
+</head>
+<body>
+  <div id="chart_div"></div>
+</body>
+</html>
