@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on (╯°□°)╯︵ ┻━┻</title>
+    <link>https://sagarjoglekar.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on (╯°□°)╯︵ ┻━┻</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Nov 2014 13:09:33 +0100</lastBuildDate>
+    
+	<atom:link href="https://sagarjoglekar.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MTAP2012</title>
+      <link>https://sagarjoglekar.github.io/publication/mtap2012/</link>
+      <pubDate>Sat, 01 Nov 2014 13:09:33 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/publication/mtap2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
