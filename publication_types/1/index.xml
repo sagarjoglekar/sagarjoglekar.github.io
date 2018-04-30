@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on (╯°□°)╯︵ ┻━┻</title>
+    <link>https://sagarjoglekar.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on (╯°□°)╯︵ ┻━┻</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 26 Apr 2018 12:29:38 +0100</lastBuildDate>
+    
+	<atom:link href="https://sagarjoglekar.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WWW2018</title>
+      <link>https://sagarjoglekar.github.io/publication/www2018/</link>
+      <pubDate>Thu, 26 Apr 2018 12:29:38 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/publication/www2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SocInfo17</title>
+      <link>https://sagarjoglekar.github.io/publication/socinfo17/</link>
+      <pubDate>Sat, 30 Sep 2017 08:44:18 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/publication/socinfo17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of Fora</title>
+      <link>https://sagarjoglekar.github.io/publication/structureoffora/</link>
+      <pubDate>Sun, 30 Apr 2017 08:52:23 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/publication/structureoffora/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

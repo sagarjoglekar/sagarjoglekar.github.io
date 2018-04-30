@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on (╯°□°)╯︵ ┻━┻</title>
+    <link>https://sagarjoglekar.github.io/project/</link>
+    <description>Recent content in Projects on (╯°□°)╯︵ ┻━┻</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 29 Apr 2018 12:50:16 +0100</lastBuildDate>
+    
+	<atom:link href="https://sagarjoglekar.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modelling User engagment with micro-videos based social media</title>
+      <link>https://sagarjoglekar.github.io/project/modeluserengagement/</link>
+      <pubDate>Sun, 29 Apr 2018 12:50:16 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/project/modeluserengagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling notion of support in online health communities</title>
+      <link>https://sagarjoglekar.github.io/project/modelsocialsupport/</link>
+      <pubDate>Sun, 29 Apr 2018 12:51:11 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/project/modelsocialsupport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining Urban beauty</title>
+      <link>https://sagarjoglekar.github.io/project/explainurbanbeauty/</link>
+      <pubDate>Sun, 29 Oct 2017 12:50:32 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/project/explainurbanbeauty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Hyper partisan news ecosystem</title>
+      <link>https://sagarjoglekar.github.io/project/hyperpartisannews/</link>
+      <pubDate>Sun, 29 Apr 2018 12:50:02 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/project/hyperpartisannews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous projects</title>
+      <link>https://sagarjoglekar.github.io/project/miscellaneous/</link>
+      <pubDate>Tue, 29 Apr 2014 12:51:55 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/project/miscellaneous/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
