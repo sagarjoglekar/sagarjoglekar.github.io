@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Nov 2014 13:09:33 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 13 May 2018 16:19:15 +0100</lastBuildDate>
     
 	<atom:link href="https://sagarjoglekar.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JMIR2018</title>
+      <link>https://sagarjoglekar.github.io/publication/jmir2018/</link>
+      <pubDate>Sun, 13 May 2018 16:19:15 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/publication/jmir2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MTAP2012</title>
