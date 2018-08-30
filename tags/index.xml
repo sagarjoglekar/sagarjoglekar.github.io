@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 29 Apr 2018 12:51:11 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2017 08:44:18 +0100</lastBuildDate>
     
 	<atom:link href="https://sagarjoglekar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Behaviour modelling</title>
+      <link>https://sagarjoglekar.github.io/tags/behaviour-modelling/</link>
+      <pubDate>Sat, 30 Sep 2017 08:44:18 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/tags/behaviour-modelling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Complex networks</title>
@@ -31,6 +40,24 @@
     </item>
     
     <item>
+      <title>Machine learning</title>
+      <link>https://sagarjoglekar.github.io/tags/machine-learning/</link>
+      <pubDate>Sat, 30 Sep 2017 08:44:18 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine-learning</title>
+      <link>https://sagarjoglekar.github.io/tags/machine-learning/</link>
+      <pubDate>Sat, 30 Sep 2017 08:44:18 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NLP</title>
       <link>https://sagarjoglekar.github.io/tags/nlp/</link>
       <pubDate>Sun, 29 Apr 2018 12:51:11 +0100</pubDate>
@@ -45,6 +72,15 @@
       <pubDate>Sun, 30 Apr 2017 08:52:23 +0100</pubDate>
       
       <guid>https://sagarjoglekar.github.io/tags/network-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Networks</title>
+      <link>https://sagarjoglekar.github.io/tags/social-networks/</link>
+      <pubDate>Sun, 29 Apr 2018 12:50:16 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/tags/social-networks/</guid>
       <description></description>
     </item>
     
