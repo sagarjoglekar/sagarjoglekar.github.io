@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Networks on (╯°□°)╯︵ ┻━┻</title>
+    <link>https://sagarjoglekar.github.io/tags/social-networks/</link>
+    <description>Recent content in Social Networks on (╯°□°)╯︵ ┻━┻</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 29 Apr 2018 12:50:16 +0100</lastBuildDate>
+    
+	<atom:link href="https://sagarjoglekar.github.io/tags/social-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modelling User engagment with micro-videos based social media</title>
+      <link>https://sagarjoglekar.github.io/project/modeluserengagement/</link>
+      <pubDate>Sun, 29 Apr 2018 12:50:16 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/project/modeluserengagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SocInfo17</title>
+      <link>https://sagarjoglekar.github.io/publication/socinfo17/</link>
+      <pubDate>Sat, 30 Sep 2017 08:44:18 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/publication/socinfo17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

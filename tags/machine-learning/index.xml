@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine-learning on (╯°□°)╯︵ ┻━┻</title>
+    <link>https://sagarjoglekar.github.io/tags/machine-learning/</link>
+    <description>Recent content in Machine-learning on (╯°□°)╯︵ ┻━┻</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 30 Sep 2017 08:44:18 +0100</lastBuildDate>
+    
+	<atom:link href="https://sagarjoglekar.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SocInfo17</title>
+      <link>https://sagarjoglekar.github.io/publication/socinfo17/</link>
+      <pubDate>Sat, 30 Sep 2017 08:44:18 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/publication/socinfo17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
