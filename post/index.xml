@@ -12,5 +12,23 @@
 	<atom:link href="https://sagarjoglekar.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>EPSRC Pioneers Competition</title>
+      <link>https://sagarjoglekar.github.io/post/connectednations/</link>
+      <pubDate>Tue, 28 Aug 2018 12:14:56 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/post/connectednations/</guid>
+      <description>Our project FaceLift: A deeplearning pipeline to beautify urban space, has been shortlisted in the highly selective EPSRC Pioneers competetion. We are one of the top 16 Ph.D. projects around U.K.</description>
+    </item>
+    
+    <item>
+      <title>Nvidia GPU Grant</title>
+      <link>https://sagarjoglekar.github.io/post/nvidiagrant/</link>
+      <pubDate>Fri, 20 Jul 2018 12:14:46 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/post/nvidiagrant/</guid>
+      <description>We have receieved the Nvidia GPU seed grant, which I wrote on my Lab&amp;rsquo;s behalf. The award would increase Netsys&amp;rsquo;s compute infrastructure with the help of a Nvidia Titan Xp GPU for our deep learning needs</description>
+    </item>
+    
   </channel>
 </rss>
