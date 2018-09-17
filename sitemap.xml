@@ -113,15 +113,6 @@
     
     <url>
     
-      <loc>https://sagarjoglekar.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://sagarjoglekar.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -132,6 +123,15 @@
     <url>
     
       <loc>https://sagarjoglekar.github.io/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://sagarjoglekar.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -229,6 +229,16 @@
     
       <loc>https://sagarjoglekar.github.io/tags/computer-vision/</loc>
       <lastmod>2014-04-29T12:51:55+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://sagarjoglekar.github.io/tags/deep-learning/</loc>
+      <lastmod>2018-08-28T12:14:56+01:00</lastmod>
       <priority>0</priority>
     </url>
     

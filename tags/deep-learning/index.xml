@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on (╯°□°)╯︵ ┻━┻</title>
+    <link>https://sagarjoglekar.github.io/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on (╯°□°)╯︵ ┻━┻</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 28 Aug 2018 12:14:56 +0100</lastBuildDate>
+    
+	<atom:link href="https://sagarjoglekar.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EPSRC Pioneers Competition</title>
+      <link>https://sagarjoglekar.github.io/post/connectednations/</link>
+      <pubDate>Tue, 28 Aug 2018 12:14:56 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/post/connectednations/</guid>
+      <description>Our project FaceLift: A deeplearning pipeline to beautify urban space, has been shortlisted in the highly selective EPSRC Pioneers competetion. We are one of the top 16 Ph.D. projects around U.K.</description>
+    </item>
+    
+  </channel>
+</rss>
