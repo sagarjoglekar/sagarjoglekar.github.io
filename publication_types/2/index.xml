@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 13 May 2018 16:19:15 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 11 Oct 2018 14:33:32 +0100</lastBuildDate>
     
 	<atom:link href="https://sagarjoglekar.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Facelift_dataViz</title>
+      <link>https://sagarjoglekar.github.io/publication/facelift_dataviz/</link>
+      <pubDate>Thu, 11 Oct 2018 14:33:32 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/publication/facelift_dataviz/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>JMIR2018</title>
