@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on (╯°□°)╯︵ ┻━┻</title>
+    <title>Homes on  (⊙_☉)  </title>
     <link>https://sagarjoglekar.github.io/home/</link>
-    <description>Recent content in Homes on (╯°□°)╯︵ ┻━┻</description>
+    <description>Recent content in Homes on  (⊙_☉)  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>News</title>
+      <link>https://sagarjoglekar.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Selected Publications</title>
       <link>https://sagarjoglekar.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
@@ -36,15 +45,6 @@
       <pubDate>Sun, 29 Apr 2018 00:00:00 +0100</pubDate>
       
       <guid>https://sagarjoglekar.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://sagarjoglekar.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://sagarjoglekar.github.io/home/posts/</guid>
       <description></description>
     </item>
     

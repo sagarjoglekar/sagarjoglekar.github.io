@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>(╯°□°)╯︵ ┻━┻ on (╯°□°)╯︵ ┻━┻</title>
+    <title> (⊙_☉)   on  (⊙_☉)  </title>
     <link>https://sagarjoglekar.github.io/</link>
-    <description>Recent content in (╯°□°)╯︵ ┻━┻ on (╯°□°)╯︵ ┻━┻</description>
+    <description>Recent content in  (⊙_☉)   on  (⊙_☉)  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -11,7 +11,7 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Modelling User engagment with micro-videos based social media</title>
+      <title>Modelling User engagment with micro-videos</title>
       <link>https://sagarjoglekar.github.io/project/modeluserengagement/</link>
       <pubDate>Sun, 29 Apr 2018 12:50:16 +0100</pubDate>
       
@@ -56,6 +56,16 @@
     </item>
     
     <item>
+      <title>Facelift makes it to top 16 Ph.D. projects across the U.K. @ EPSRC Pioneers Competition</title>
+      <link>https://sagarjoglekar.github.io/post/connectednations/</link>
+      <pubDate>Tue, 13 Nov 2018 12:14:56 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.github.io/post/connectednations/</guid>
+      <description>&lt;p&gt;Our project &lt;strong&gt;FaceLift: A deeplearning pipeline to beautify urban spaces&lt;/strong&gt;, has been shortlisted in the highly selective EPSRC Pioneers competetion. We are one of the top 16 Ph.D. projects around U.K. It stands in the top 4 projects among the creative computing category. &lt;strong&gt;Please find the full announcement &lt;a href=&#34;https://epsrc.ukri.org/newsevents/news/connectednationpioneers18/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Facelift_dataViz</title>
       <link>https://sagarjoglekar.github.io/publication/facelift_dataviz/</link>
       <pubDate>Thu, 11 Oct 2018 14:33:32 +0100</pubDate>
@@ -65,17 +75,7 @@
     </item>
     
     <item>
-      <title>EPSRC Pioneers Competition</title>
-      <link>https://sagarjoglekar.github.io/post/connectednations/</link>
-      <pubDate>Tue, 28 Aug 2018 12:14:56 +0100</pubDate>
-      
-      <guid>https://sagarjoglekar.github.io/post/connectednations/</guid>
-      <description>&lt;p&gt;Our project &lt;strong&gt;FaceLift: A deeplearning pipeline to beautify urban space&lt;/strong&gt;, has been shortlisted in the highly selective EPSRC Pioneers competetion. We are one of the top 16 Ph.D. projects around U.K.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nvidia GPU Grant</title>
+      <title>Netsys lab&#39;s deep learning capability upgraded through Nvidia GPU Grant</title>
       <link>https://sagarjoglekar.github.io/post/nvidiagrant/</link>
       <pubDate>Fri, 20 Jul 2018 12:14:46 +0100</pubDate>
       
