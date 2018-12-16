@@ -122,6 +122,15 @@
     
     <url>
     
+      <loc>https://sagarjoglekar.github.io/post/partisanecosystem/</loc>
+      <lastmod>2017-08-08T11:36:45+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://sagarjoglekar.github.io/publication/structureoffora/</loc>
       <lastmod>2017-04-30T08:52:23+01:00</lastmod>
     </url>
@@ -277,6 +286,16 @@
     
       <loc>https://sagarjoglekar.github.io/tags/deep-learning/</loc>
       <lastmod>2018-10-11T14:33:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://sagarjoglekar.github.io/tags/hyperpartisannews/</loc>
+      <lastmod>2017-08-08T11:36:45+00:00</lastmod>
       <priority>0</priority>
     </url>
     
