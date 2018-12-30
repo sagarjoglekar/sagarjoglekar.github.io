@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep learning on  (⊙_☉)  </title>
+    <title>Deep Learning on  (⊙_☉)  </title>
     <link>https://sagarjoglekar.github.io/tags/deep-learning/</link>
-    <description>Recent content in Deep learning on  (⊙_☉)  </description>
+    <description>Recent content in Deep Learning on  (⊙_☉)  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 11 Oct 2018 14:33:32 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 13 Nov 2018 12:14:56 +0100</lastBuildDate>
     
 	<atom:link href="https://sagarjoglekar.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Facelift_dataViz</title>
-      <link>https://sagarjoglekar.github.io/publication/facelift_dataviz/</link>
-      <pubDate>Thu, 11 Oct 2018 14:33:32 +0100</pubDate>
+      <title>Facelift makes it to top 16 Ph.D. projects across the U.K. @ EPSRC Pioneers Competition</title>
+      <link>https://sagarjoglekar.github.io/post/connectednations/</link>
+      <pubDate>Tue, 13 Nov 2018 12:14:56 +0100</pubDate>
       
-      <guid>https://sagarjoglekar.github.io/publication/facelift_dataviz/</guid>
-      <description></description>
+      <guid>https://sagarjoglekar.github.io/post/connectednations/</guid>
+      <description>Our project FaceLift: A deeplearning pipeline to beautify urban spaces, has been shortlisted in the highly selective EPSRC Pioneers competetion. We are one of the top 16 Ph.D. projects around U.K. It stands in the top 4 projects among the creative computing category. Please find the full announcement here.</description>
     </item>
     
   </channel>
