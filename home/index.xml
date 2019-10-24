@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on  (☉_☉)  </title>
-    <link>https://sagarjoglekar.github.io/home/</link>
+    <link>https://sagarjoglekar.com/home/</link>
     <description>Recent content in Homes on  (☉_☉)  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://sagarjoglekar.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sagarjoglekar.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://sagarjoglekar.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <link>https://sagarjoglekar.com/home/about/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://sagarjoglekar.github.io/home/about/</guid>
-      <description>Biography I am a King&amp;rsquo;s India scholar and a Ph.D. candidate at King&amp;rsquo;s College London. I am working towards my Ph.D. in computer science at Department Informatics, King&amp;rsquo;s College London , under the guidance of Dr. Nishanth Sastry. I am also a Reserch Scientist at Nokia Bell labs, Cambridge UK, working with the social dynamics team. My primary interests are complex networks and quantifying their emergent behaviours using the up and coming representation learning methods.</description>
+      <guid>https://sagarjoglekar.com/home/about/</guid>
+      <description>Biography I am a Reserch Scientist at Nokia Bell labs, Cambridge UK, working with the social dynamics team.  My primary interests are complex networks and quantifying their emergent behaviours using the up and coming representation learning methods. My current projects deal with affective analysis of images and text for urban informatics, data driven measurements of social phenomenon and quantification of affective dimensions in online interactions.  I was a King&amp;rsquo;s India scholar at King&amp;rsquo;s College London, and I worked towards my Ph.</description>
     </item>
     
     <item>
       <title>News</title>
-      <link>https://sagarjoglekar.github.io/home/posts/</link>
+      <link>https://sagarjoglekar.com/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://sagarjoglekar.github.io/home/posts/</guid>
+      <guid>https://sagarjoglekar.com/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://sagarjoglekar.github.io/home/publications/</link>
+      <link>https://sagarjoglekar.com/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://sagarjoglekar.github.io/home/publications/</guid>
+      <guid>https://sagarjoglekar.com/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://sagarjoglekar.github.io/home/projects/</link>
+      <link>https://sagarjoglekar.com/home/projects/</link>
       <pubDate>Sun, 29 Apr 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://sagarjoglekar.github.io/home/projects/</guid>
+      <guid>https://sagarjoglekar.com/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://sagarjoglekar.github.io/home/talks/</link>
+      <link>https://sagarjoglekar.com/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://sagarjoglekar.github.io/home/talks/</guid>
+      <guid>https://sagarjoglekar.com/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://sagarjoglekar.github.io/home/contact/</link>
+      <link>https://sagarjoglekar.com/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://sagarjoglekar.github.io/home/contact/</guid>
+      <guid>https://sagarjoglekar.com/home/contact/</guid>
       <description></description>
     </item>
     

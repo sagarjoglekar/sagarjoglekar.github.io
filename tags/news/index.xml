@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on  (☉_☉)  </title>
+    <link>https://sagarjoglekar.com/tags/news/</link>
+    <description>Recent content in News on  (☉_☉)  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sat, 01 Jun 2019 12:14:56 +0100</lastBuildDate>
+    
+	<atom:link href="https://sagarjoglekar.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Started as a Research scientist at Bell Labs, UK</title>
+      <link>https://sagarjoglekar.com/post/belllabs/</link>
+      <pubDate>Sat, 01 Jun 2019 12:14:56 +0100</pubDate>
+      
+      <guid>https://sagarjoglekar.com/post/belllabs/</guid>
+      <description>I have officially started as a research scientist at Bell labs, Cambridge, UK. I will work with the Social dynamics team on problems dealing with the modelling of different phenomenon in the realms of urban informatics, social health and AI for social good.</description>
+    </item>
+    
+  </channel>
+</rss>
