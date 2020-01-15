@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hyperpartisannews on  (☉_☉)  </title>
+    <title>hyperpartisannews |  (☉_☉)  </title>
     <link>https://sagarjoglekar.com/tags/hyperpartisannews/</link>
-    <description>Recent content in hyperpartisannews on  (☉_☉)  </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 08 Aug 2017 11:36:45 +0000</lastBuildDate>
-    
-	<atom:link href="https://sagarjoglekar.com/tags/hyperpartisannews/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sagarjoglekar.com/tags/hyperpartisannews/index.xml" rel="self" type="application/rss+xml" />
+    <description>hyperpartisannews</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2017 11:36:45 +0000</lastBuildDate>
+    <image>
+      <url>https://sagarjoglekar.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>hyperpartisannews</title>
+      <link>https://sagarjoglekar.com/tags/hyperpartisannews/</link>
+    </image>
     
     <item>
       <title>WWW 2018 work covered by Buzzfeed</title>
       <link>https://sagarjoglekar.com/post/partisanecosystem/</link>
       <pubDate>Tue, 08 Aug 2017 11:36:45 +0000</pubDate>
-      
       <guid>https://sagarjoglekar.com/post/partisanecosystem/</guid>
-      <description>Our work done on ecosystem of hyper partisan news sources has been covered by Buzzfeed news. The full article can be found here here</description>
+      <description>&lt;p&gt;Our work done on ecosystem of hyper partisan news sources has been covered by Buzzfeed news. The full article can be found here &lt;a href=&#34;https://www.buzzfeednews.com/article/craigsilverman/inside-the-partisan-fight-for-your-news-feed&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,95 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on  (☉_☉)  </title>
+    <title>Tags |  (☉_☉)  </title>
     <link>https://sagarjoglekar.com/tags/</link>
-    <description>Recent content in Tags on  (☉_☉)  </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 30 Sep 2017 08:44:18 +0100</lastBuildDate>
-    
-	<atom:link href="https://sagarjoglekar.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Behaviour modelling</title>
-      <link>https://sagarjoglekar.com/tags/behaviour-modelling/</link>
-      <pubDate>Sat, 30 Sep 2017 08:44:18 +0100</pubDate>
-      
-      <guid>https://sagarjoglekar.com/tags/behaviour-modelling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer Vision</title>
-      <link>https://sagarjoglekar.com/tags/computer-vision/</link>
-      <pubDate>Tue, 29 Apr 2014 12:51:55 +0100</pubDate>
-      
-      <guid>https://sagarjoglekar.com/tags/computer-vision/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://sagarjoglekar.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 14:33:32 +0100</lastBuildDate>
+    <image>
+      <url>https://sagarjoglekar.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://sagarjoglekar.com/tags/</link>
+    </image>
     
     <item>
       <title>Data Visualization</title>
       <link>https://sagarjoglekar.com/tags/data-visualization/</link>
-      <pubDate>Thu, 11 Oct 2018 14:33:32 +0100</pubDate>
-      
+      <pubDate>Wed, 15 Jan 2020 14:33:32 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/data-visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decentralised web</title>
-      <link>https://sagarjoglekar.com/tags/decentralised-web/</link>
-      <pubDate>Sun, 20 Oct 2019 08:44:18 +0100</pubDate>
-      
-      <guid>https://sagarjoglekar.com/tags/decentralised-web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://sagarjoglekar.com/tags/deep-learning/</link>
-      <pubDate>Tue, 13 Nov 2018 12:14:56 +0100</pubDate>
-      
-      <guid>https://sagarjoglekar.com/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep learning</title>
       <link>https://sagarjoglekar.com/tags/deep-learning/</link>
-      <pubDate>Thu, 11 Oct 2018 14:33:32 +0100</pubDate>
-      
+      <pubDate>Wed, 15 Jan 2020 14:33:32 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Machine learning</title>
-      <link>https://sagarjoglekar.com/tags/machine-learning/</link>
-      <pubDate>Sat, 30 Sep 2017 08:44:18 +0100</pubDate>
-      
-      <guid>https://sagarjoglekar.com/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NLP</title>
-      <link>https://sagarjoglekar.com/tags/nlp/</link>
-      <pubDate>Sun, 29 Apr 2018 12:51:11 +0100</pubDate>
-      
-      <guid>https://sagarjoglekar.com/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Network Analysis</title>
-      <link>https://sagarjoglekar.com/tags/network-analysis/</link>
-      <pubDate>Sun, 30 Apr 2017 08:52:23 +0100</pubDate>
-      
-      <guid>https://sagarjoglekar.com/tags/network-analysis/</guid>
+      <title>Urban Informatics</title>
+      <link>https://sagarjoglekar.com/tags/urban-informatics/</link>
+      <pubDate>Wed, 15 Jan 2020 14:33:32 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/urban-informatics/</guid>
       <description></description>
     </item>
     
@@ -97,26 +40,23 @@
       <title>News</title>
       <link>https://sagarjoglekar.com/tags/news/</link>
       <pubDate>Fri, 06 Dec 2019 12:14:56 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralised web</title>
+      <link>https://sagarjoglekar.com/tags/decentralised-web/</link>
+      <pubDate>Sun, 20 Oct 2019 08:44:18 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/decentralised-web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Networks</title>
       <link>https://sagarjoglekar.com/tags/social-networks/</link>
-      <pubDate>Sun, 29 Apr 2018 12:50:16 +0100</pubDate>
-      
+      <pubDate>Sun, 20 Oct 2019 08:44:18 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/social-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Urban Informatics</title>
-      <link>https://sagarjoglekar.com/tags/urban-informatics/</link>
-      <pubDate>Thu, 11 Oct 2018 14:33:32 +0100</pubDate>
-      
-      <guid>https://sagarjoglekar.com/tags/urban-informatics/</guid>
       <description></description>
     </item>
     
@@ -124,8 +64,31 @@
       <title>complex networks</title>
       <link>https://sagarjoglekar.com/tags/complex-networks/</link>
       <pubDate>Sun, 29 Apr 2018 12:51:11 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/tags/complex-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://sagarjoglekar.com/tags/nlp/</link>
+      <pubDate>Sun, 29 Apr 2018 12:51:11 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://sagarjoglekar.com/tags/machine-learning/</link>
+      <pubDate>Sun, 29 Apr 2018 12:50:16 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behaviour modelling</title>
+      <link>https://sagarjoglekar.com/tags/behaviour-modelling/</link>
+      <pubDate>Sat, 30 Sep 2017 08:44:18 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/behaviour-modelling/</guid>
       <description></description>
     </item>
     
@@ -133,17 +96,23 @@
       <title>hyperpartisannews</title>
       <link>https://sagarjoglekar.com/tags/hyperpartisannews/</link>
       <pubDate>Tue, 08 Aug 2017 11:36:45 +0000</pubDate>
-      
       <guid>https://sagarjoglekar.com/tags/hyperpartisannews/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>machine-learning</title>
-      <link>https://sagarjoglekar.com/tags/machine-learning/</link>
-      <pubDate>Sat, 30 Sep 2017 08:44:18 +0100</pubDate>
-      
-      <guid>https://sagarjoglekar.com/tags/machine-learning/</guid>
+      <title>Network Analysis</title>
+      <link>https://sagarjoglekar.com/tags/network-analysis/</link>
+      <pubDate>Sun, 30 Apr 2017 08:52:23 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/network-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://sagarjoglekar.com/tags/computer-vision/</link>
+      <pubDate>Tue, 29 Apr 2014 12:51:55 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/computer-vision/</guid>
       <description></description>
     </item>
     

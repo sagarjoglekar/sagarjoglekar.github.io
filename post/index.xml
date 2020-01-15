@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Updates on  (☉_☉)  </title>
+    <title>Posts |  (☉_☉)  </title>
     <link>https://sagarjoglekar.com/post/</link>
-    <description>Recent content in Updates on  (☉_☉)  </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://sagarjoglekar.com/post/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sagarjoglekar.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://sagarjoglekar.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://sagarjoglekar.com/post/</link>
+    </image>
     
     <item>
       <title>Successfully defended the Ph.D.</title>
       <link>https://sagarjoglekar.com/post/defense/</link>
       <pubDate>Fri, 06 Dec 2019 12:14:56 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/post/defense/</guid>
-      <description>I succesfully defended my Ph.D titled &amp;ldquo;From Communities to Crowds: Quantifying the subjective&amp;rdquo;. The examiners recommended minor corrections to the dissertation.
-The dissertation was examined by Prof. Joemon Jose and Prof. Yulan He
-I want to sincerely thank Prof. Nishanth Sastry and all the collaborators who have mentored and enriched me in various aspects of being a researcher over the past 4 years.
-I would also like to thank King&amp;rsquo;s India scholarship and the King&amp;rsquo;s graduate school for supporting me during my tenure at Kings.</description>
+      <description>&lt;p&gt;I succesfully &lt;a href=&#34;https://twitter.com/nishanthsastry/status/1202944689940434944?s=20&#34;&gt;defended my Ph.D&lt;/a&gt; titled &lt;a href=&#34;https://www.slideshare.net/sagarjoglekar/dissertation-presentation-203515811&#34;&gt;&amp;ldquo;From Communities to Crowds: Quantifying the subjective&amp;rdquo;&lt;/a&gt;. The examiners recommended minor corrections to the dissertation.&lt;/p&gt;
+&lt;p&gt;The dissertation was examined by &lt;a href=&#34;http://www.dcs.gla.ac.uk/~jj/&#34;&gt;Prof. Joemon Jose&lt;/a&gt; and &lt;a href=&#34;https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/&#34;&gt;Prof. Yulan He&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I want to sincerely thank Prof. Nishanth Sastry and all the collaborators who have mentored and enriched me in various aspects of being a researcher over the past 4 years.&lt;/p&gt;
+&lt;p&gt;I would also like to thank King&#39;s India scholarship and the King&#39;s graduate school for supporting me during my tenure at Kings.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Started as a Research scientist at Bell Labs, UK</title>
       <link>https://sagarjoglekar.com/post/belllabs/</link>
       <pubDate>Sat, 01 Jun 2019 12:14:56 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/post/belllabs/</guid>
-      <description>I have officially started as a research scientist at Bell labs, Cambridge, UK. I will work with the Social dynamics team on problems dealing with the modelling of different phenomenon in the realms of urban informatics, social health and AI for social good.</description>
+      <description>&lt;p&gt;I have officially started as a research scientist at Bell labs, Cambridge, UK. I will work with the &lt;strong&gt;&lt;a href=&#34;http://social-dynamics.net/&#34;&gt;Social dynamics&lt;/a&gt;&lt;/strong&gt; team on problems dealing with the modelling of different phenomenon in the realms of urban informatics, social health and AI for social good.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Facelift makes it to top 16 Ph.D. projects across the U.K. @ EPSRC Pioneers Competition</title>
       <link>https://sagarjoglekar.com/post/connectednations/</link>
       <pubDate>Tue, 13 Nov 2018 12:14:56 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/post/connectednations/</guid>
-      <description>Our project FaceLift: A deeplearning pipeline to beautify urban spaces, has been shortlisted in the highly selective EPSRC Pioneers competetion. We are one of the top 16 Ph.D. projects around U.K. It stands in the top 4 projects among the creative computing category. Please find the full announcement here.</description>
+      <description>&lt;p&gt;Our project &lt;strong&gt;FaceLift: A deeplearning pipeline to beautify urban spaces&lt;/strong&gt;, has been shortlisted in the highly selective EPSRC Pioneers competetion. We are one of the top 16 Ph.D. projects around U.K. It stands in the top 4 projects among the creative computing category. &lt;strong&gt;Please find the full announcement &lt;a href=&#34;https://epsrc.ukri.org/newsevents/news/connectednationpioneers18/&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Netsys lab&#39;s deep learning capability upgraded through Nvidia GPU Grant</title>
       <link>https://sagarjoglekar.com/post/nvidiagrant/</link>
       <pubDate>Fri, 20 Jul 2018 12:14:46 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/post/nvidiagrant/</guid>
-      <description>We have receieved the Nvidia GPU seed grant, which I wrote on my Lab&amp;rsquo;s behalf. The award would increase Netsys&amp;rsquo;s compute infrastructure with the help of a Nvidia Titan Xp GPU for our deep learning needs</description>
+      <description>&lt;p&gt;We have receieved the Nvidia GPU seed grant, which I wrote on my Lab&#39;s behalf. The award would increase &lt;a href=&#34;https://nms.kcl.ac.uk/netsys/datasets&#34;&gt;Netsys&#39;s&lt;/a&gt; compute infrastructure with the help of a Nvidia Titan Xp GPU for our deep learning needs&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>WWW 2018 work covered by Buzzfeed</title>
       <link>https://sagarjoglekar.com/post/partisanecosystem/</link>
       <pubDate>Tue, 08 Aug 2017 11:36:45 +0000</pubDate>
-      
       <guid>https://sagarjoglekar.com/post/partisanecosystem/</guid>
-      <description>Our work done on ecosystem of hyper partisan news sources has been covered by Buzzfeed news. The full article can be found here here</description>
+      <description>&lt;p&gt;Our work done on ecosystem of hyper partisan news sources has been covered by Buzzfeed news. The full article can be found here &lt;a href=&#34;https://www.buzzfeednews.com/article/craigsilverman/inside-the-partisan-fight-for-your-news-feed&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

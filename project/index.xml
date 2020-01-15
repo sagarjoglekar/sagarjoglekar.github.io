@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on  (☉_☉)  </title>
+    <title>Projects |  (☉_☉)  </title>
     <link>https://sagarjoglekar.com/project/</link>
-    <description>Recent content in Projects on  (☉_☉)  </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 29 Apr 2018 12:50:16 +0100</lastBuildDate>
-    
-	<atom:link href="https://sagarjoglekar.com/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sagarjoglekar.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Apr 2018 12:51:11 +0100</lastBuildDate>
+    <image>
+      <url>https://sagarjoglekar.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://sagarjoglekar.com/project/</link>
+    </image>
     
     <item>
       <title>Modelling User engagment with micro-videos</title>
       <link>https://sagarjoglekar.com/project/modeluserengagement/</link>
       <pubDate>Sun, 29 Apr 2018 12:50:16 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/project/modeluserengagement/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Modelling notion of support in online health communities</title>
       <link>https://sagarjoglekar.com/project/modelsocialsupport/</link>
       <pubDate>Sun, 29 Apr 2018 12:51:11 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/project/modelsocialsupport/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>Explaining Urban beauty</title>
       <link>https://sagarjoglekar.com/project/explainurbanbeauty/</link>
       <pubDate>Sun, 29 Oct 2017 12:50:32 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/project/explainurbanbeauty/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>Measuring Hyper partisan news ecosystem</title>
       <link>https://sagarjoglekar.com/project/hyperpartisannews/</link>
       <pubDate>Sun, 29 Apr 2018 12:50:02 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/project/hyperpartisannews/</guid>
       <description></description>
     </item>
@@ -52,7 +48,6 @@
       <title>Miscellaneous projects</title>
       <link>https://sagarjoglekar.com/project/miscellaneous/</link>
       <pubDate>Tue, 29 Apr 2014 12:51:55 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/project/miscellaneous/</guid>
       <description></description>
     </item>

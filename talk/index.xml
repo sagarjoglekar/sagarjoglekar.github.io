@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks on  (☉_☉)  </title>
+    <title>Recent &amp; Upcoming Talks |  (☉_☉)  </title>
     <link>https://sagarjoglekar.com/talk/</link>
-    <description>Recent content in Talks on  (☉_☉)  </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://sagarjoglekar.com/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sagarjoglekar.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://sagarjoglekar.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://sagarjoglekar.com/talk/</link>
+    </image>
     
     <item>
       <title>Ph.D. Defence talk</title>
       <link>https://sagarjoglekar.com/talk/defence_talk/</link>
       <pubDate>Fri, 06 Dec 2019 09:00:00 +0000</pubDate>
-      
       <guid>https://sagarjoglekar.com/talk/defence_talk/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>CTR_workshop</title>
       <link>https://sagarjoglekar.com/talk/ctr_workshop/</link>
       <pubDate>Mon, 30 Apr 2018 09:00:00 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/talk/ctr_workshop/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>SocInfo2017</title>
       <link>https://sagarjoglekar.com/talk/socinfo2017/</link>
       <pubDate>Wed, 13 Sep 2017 16:45:53 +0000</pubDate>
-      
       <guid>https://sagarjoglekar.com/talk/socinfo2017/</guid>
       <description></description>
     </item>

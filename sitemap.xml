@@ -1,402 +1,349 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/project/modeluserengagement/</loc>
-      <lastmod>2018-04-29T12:50:16+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/project/modeluserengagement/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/project/modelsocialsupport/</loc>
-      <lastmod>2018-04-29T12:51:11+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/project/modelsocialsupport/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/project/explainurbanbeauty/</loc>
-      <lastmod>2017-10-29T12:50:32+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/project/explainurbanbeauty/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/project/hyperpartisannews/</loc>
-      <lastmod>2018-04-29T12:50:02+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/project/hyperpartisannews/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/project/miscellaneous/</loc>
-      <lastmod>2014-04-29T12:51:55+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/project/miscellaneous/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/post/defense/</loc>
-      <lastmod>2019-12-06T12:14:56+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/talk/defence_talk/</loc>
-      <lastmod>2019-12-06T09:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/sagar-joglekar/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/publication/imc2019/</loc>
-      <lastmod>2019-10-20T08:44:18+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/publication_types/2/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/post/belllabs/</loc>
-      <lastmod>2019-06-01T12:14:56+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/post/connectednations/</loc>
-      <lastmod>2018-11-13T12:14:56+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/daniele-quercia/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/publication/facelift_dataviz/</loc>
-      <lastmod>2018-10-11T14:33:32+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/tags/data-visualization/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/post/nvidiagrant/</loc>
-      <lastmod>2018-07-20T12:14:46+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/tags/deep-learning/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/publication/jmir2018/</loc>
-      <lastmod>2018-05-13T16:19:15+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/publication/facelift_pipeline/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/talk/ctr_workshop/</loc>
-      <lastmod>2018-04-30T09:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/luca-aiello/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/publication/www2018/</loc>
-      <lastmod>2018-04-26T12:29:38+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/miriam-redi/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/publication/socinfo17/</loc>
-      <lastmod>2017-09-30T08:44:18+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/nishanth-sastry/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/talk/socinfo2017/</loc>
-      <lastmod>2017-09-13T16:45:53+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/publication_types/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/post/partisanecosystem/</loc>
-      <lastmod>2017-08-08T11:36:45+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/tags/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/publication/structureoffora/</loc>
-      <lastmod>2017-04-30T08:52:23+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/tobias-kauer/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/tags/urban-informatics/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/tags/news/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/post/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/post/defense/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/publication/mtap2012/</loc>
-      <lastmod>2014-11-01T13:09:33+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/talk/defence_talk/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/publication/srii2012/</loc>
-      <lastmod>2012-04-30T09:01:01+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/publication_types/1/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/</loc>
-      <lastmod>2019-10-23T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/aravindh-raman/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/publication_types/0/</loc>
-      <lastmod>2012-04-30T09:01:01+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/publication/imc2019/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/publication_types/1/</loc>
-      <lastmod>2019-10-20T08:44:18+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/tags/decentralised-web/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/publication_types/2/</loc>
-      <lastmod>2018-10-11T14:33:32+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/emiliano-de-cristofaro/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/behaviour-modelling/</loc>
-      <lastmod>2017-09-30T08:44:18+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/gareth-tyson/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/nishnath-sastry/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/computer-vision/</loc>
-      <lastmod>2014-04-29T12:51:55+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/tags/social-networks/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/data-visualization/</loc>
-      <lastmod>2018-10-11T14:33:32+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/post/belllabs/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/decentralised-web/</loc>
-      <lastmod>2019-10-20T08:44:18+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/post/connectednations/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/deep-learning/</loc>
-      <lastmod>2018-11-13T12:14:56+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/publication/facelift_dataviz/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/deep-learning/</loc>
-      <lastmod>2018-10-11T14:33:32+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/post/nvidiagrant/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/machine-learning/</loc>
-      <lastmod>2017-09-30T08:44:18+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/anna-di-simoni/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/nlp/</loc>
-      <lastmod>2018-04-29T12:51:11+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/et.-al/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/network-analysis/</loc>
-      <lastmod>2017-04-30T08:52:23+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/publication/jmir2018/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/news/</loc>
-      <lastmod>2019-12-06T12:14:56+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/pietro-panzarasa/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/project/</loc>
-      <lastmod>2018-04-29T12:50:16+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/talk/ctr_workshop/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/publication_types/</loc>
-      <lastmod>2012-04-30T09:01:01+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/tags/complex-networks/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/social-networks/</loc>
-      <lastmod>2018-04-29T12:50:16+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/tags/nlp/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/</loc>
-      <lastmod>2017-09-30T08:44:18+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/project/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/urban-informatics/</loc>
-      <lastmod>2018-10-11T14:33:32+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/tags/machine-learning/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/complex-networks/</loc>
-      <lastmod>2018-04-29T12:51:11+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/publication/www2018/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/hyperpartisannews/</loc>
-      <lastmod>2017-08-08T11:36:45+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/shehar-bano/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sagarjoglekar.com/tags/machine-learning/</loc>
-      <lastmod>2017-09-30T08:44:18+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://sagarjoglekar.com/authors/shweta-bhat/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/tags/behaviour-modelling/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/publication/socinfo17/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/talk/socinfo2017/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/tags/hyperpartisannews/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/post/partisanecosystem/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/authors/anna-de-simoni/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/authors/et.al/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/tags/network-analysis/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/publication/structureoffora/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/publication/mtap2012/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/authors/rohit-nair/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/authors/vijayraghavan-v/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/tags/computer-vision/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/publication_types/0/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/publication/srii2012/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/authors/arun-somasundata/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/authors/karthikeyan-dhanapal/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/authors/admin/</loc>
+    <lastmod>2020-01-15T21:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/post/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/publication/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagarjoglekar.com/talk/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+  </url>
   
 </urlset>

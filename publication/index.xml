@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Selected Publications on  (☉_☉)  </title>
+    <title>Publications |  (☉_☉)  </title>
     <link>https://sagarjoglekar.com/publication/</link>
-    <description>Recent content in Selected Publications on  (☉_☉)  </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://sagarjoglekar.com/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sagarjoglekar.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://sagarjoglekar.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://sagarjoglekar.com/publication/</link>
+    </image>
     
     <item>
-      <title>IMC2019</title>
+      <title>FaceLift: a transparent deep learning framework to beautify urban scenes</title>
+      <link>https://sagarjoglekar.com/publication/facelift_pipeline/</link>
+      <pubDate>Wed, 15 Jan 2020 14:33:32 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/facelift_pipeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges in the Decentralised Web: The Mastodon Case</title>
       <link>https://sagarjoglekar.com/publication/imc2019/</link>
       <pubDate>Sun, 20 Oct 2019 08:44:18 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/publication/imc2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Facelift_dataViz</title>
+      <title>Mapping and Visualizing Deep-Learning Urban Beautification</title>
       <link>https://sagarjoglekar.com/publication/facelift_dataviz/</link>
       <pubDate>Thu, 11 Oct 2018 14:33:32 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/publication/facelift_dataviz/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>JMIR2018</title>
+      <title>How do online communities of people with long-term conditions function and evolve? Network analysis of the structure and dynamics of the Asthma UK and British Lung Foundation (BLF) online communities.</title>
       <link>https://sagarjoglekar.com/publication/jmir2018/</link>
       <pubDate>Sun, 13 May 2018 16:19:15 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/publication/jmir2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>WWW2018</title>
+      <title>Illuminating an ecosystem of partisan websites</title>
       <link>https://sagarjoglekar.com/publication/www2018/</link>
       <pubDate>Thu, 26 Apr 2018 12:29:38 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/publication/www2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SocInfo17</title>
+      <title>Like at First Sight: Understanding User Engagement with the World of Microvideos</title>
       <link>https://sagarjoglekar.com/publication/socinfo17/</link>
       <pubDate>Sat, 30 Sep 2017 08:44:18 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/publication/socinfo17/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Structure of Fora</title>
+      <title>Structure and dynamics of online patients’ communities: the case of Asthma UK and BLF online fora</title>
       <link>https://sagarjoglekar.com/publication/structureoffora/</link>
       <pubDate>Sun, 30 Apr 2017 08:52:23 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/publication/structureoffora/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MTAP2012</title>
+      <title>Robust transcoding resistant watermarking for H.264 standard</title>
       <link>https://sagarjoglekar.com/publication/mtap2012/</link>
       <pubDate>Sat, 01 Nov 2014 13:09:33 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/publication/mtap2012/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SRII 2012</title>
+      <title>An Innovative System for Remote and Automated Testing of Mobile Phone Applications</title>
       <link>https://sagarjoglekar.com/publication/srii2012/</link>
       <pubDate>Mon, 30 Apr 2012 09:01:01 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/publication/srii2012/</guid>
       <description></description>
     </item>

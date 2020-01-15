@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Visualization on  (☉_☉)  </title>
+    <title>Data Visualization |  (☉_☉)  </title>
     <link>https://sagarjoglekar.com/tags/data-visualization/</link>
-    <description>Recent content in Data Visualization on  (☉_☉)  </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 11 Oct 2018 14:33:32 +0100</lastBuildDate>
-    
-	<atom:link href="https://sagarjoglekar.com/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sagarjoglekar.com/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Visualization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 14:33:32 +0100</lastBuildDate>
+    <image>
+      <url>https://sagarjoglekar.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Visualization</title>
+      <link>https://sagarjoglekar.com/tags/data-visualization/</link>
+    </image>
     
     <item>
-      <title>Facelift_dataViz</title>
+      <title>FaceLift: a transparent deep learning framework to beautify urban scenes</title>
+      <link>https://sagarjoglekar.com/publication/facelift_pipeline/</link>
+      <pubDate>Wed, 15 Jan 2020 14:33:32 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/facelift_pipeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping and Visualizing Deep-Learning Urban Beautification</title>
       <link>https://sagarjoglekar.com/publication/facelift_dataviz/</link>
       <pubDate>Thu, 11 Oct 2018 14:33:32 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/publication/facelift_dataviz/</guid>
       <description></description>
     </item>

@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>machine-learning on  (☉_☉)  </title>
+    <title>machine-learning |  (☉_☉)  </title>
     <link>https://sagarjoglekar.com/tags/machine-learning/</link>
-    <description>Recent content in machine-learning on  (☉_☉)  </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 30 Sep 2017 08:44:18 +0100</lastBuildDate>
-    
-	<atom:link href="https://sagarjoglekar.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sagarjoglekar.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine-learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Apr 2018 12:50:16 +0100</lastBuildDate>
+    <image>
+      <url>https://sagarjoglekar.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>machine-learning</title>
+      <link>https://sagarjoglekar.com/tags/machine-learning/</link>
+    </image>
     
     <item>
-      <title>SocInfo17</title>
+      <title>Modelling User engagment with micro-videos</title>
+      <link>https://sagarjoglekar.com/project/modeluserengagement/</link>
+      <pubDate>Sun, 29 Apr 2018 12:50:16 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/project/modeluserengagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Like at First Sight: Understanding User Engagement with the World of Microvideos</title>
       <link>https://sagarjoglekar.com/publication/socinfo17/</link>
       <pubDate>Sat, 30 Sep 2017 08:44:18 +0100</pubDate>
-      
       <guid>https://sagarjoglekar.com/publication/socinfo17/</guid>
       <description></description>
     </item>

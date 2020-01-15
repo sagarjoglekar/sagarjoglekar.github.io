@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nishanth Sastry |  (☉_☉)  </title>
+    <link>https://sagarjoglekar.com/authors/nishanth-sastry/</link>
+      <atom:link href="https://sagarjoglekar.com/authors/nishanth-sastry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nishanth Sastry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 14:33:32 +0100</lastBuildDate>
+    <image>
+      <url>https://sagarjoglekar.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Nishanth Sastry</title>
+      <link>https://sagarjoglekar.com/authors/nishanth-sastry/</link>
+    </image>
+    
+    <item>
+      <title>FaceLift: a transparent deep learning framework to beautify urban scenes</title>
+      <link>https://sagarjoglekar.com/publication/facelift_pipeline/</link>
+      <pubDate>Wed, 15 Jan 2020 14:33:32 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/facelift_pipeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do online communities of people with long-term conditions function and evolve? Network analysis of the structure and dynamics of the Asthma UK and British Lung Foundation (BLF) online communities.</title>
+      <link>https://sagarjoglekar.com/publication/jmir2018/</link>
+      <pubDate>Sun, 13 May 2018 16:19:15 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/jmir2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illuminating an ecosystem of partisan websites</title>
+      <link>https://sagarjoglekar.com/publication/www2018/</link>
+      <pubDate>Thu, 26 Apr 2018 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/www2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure and dynamics of online patients’ communities: the case of Asthma UK and BLF online fora</title>
+      <link>https://sagarjoglekar.com/publication/structureoffora/</link>
+      <pubDate>Sun, 30 Apr 2017 08:52:23 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/structureoffora/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
