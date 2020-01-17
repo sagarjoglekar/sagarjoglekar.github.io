@@ -5,7 +5,7 @@
     <link>https://sagarjoglekar.com/tags/complex-networks/</link>
       <atom:link href="https://sagarjoglekar.com/tags/complex-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>complex networks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Apr 2018 12:51:11 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 May 2018 16:19:15 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>complex networks</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
-      <title>Modelling notion of support in online health communities</title>
+      <title>Social networks and health</title>
       <link>https://sagarjoglekar.com/project/modelsocialsupport/</link>
       <pubDate>Sun, 29 Apr 2018 12:51:11 +0100</pubDate>
       <guid>https://sagarjoglekar.com/project/modelsocialsupport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do online communities of people with long-term conditions function and evolve? Network analysis of the structure and dynamics of the Asthma UK and British Lung Foundation (BLF) online communities.</title>
+      <link>https://sagarjoglekar.com/publication/jmir2018/</link>
+      <pubDate>Sun, 13 May 2018 16:19:15 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/jmir2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illuminating an ecosystem of partisan websites</title>
+      <link>https://sagarjoglekar.com/publication/www2018/</link>
+      <pubDate>Thu, 26 Apr 2018 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/www2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure and dynamics of online patients’ communities: the case of Asthma UK and BLF online fora</title>
+      <link>https://sagarjoglekar.com/publication/structureoffora/</link>
+      <pubDate>Sun, 30 Apr 2017 08:52:23 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/structureoffora/</guid>
       <description></description>
     </item>
     
