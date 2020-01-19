@@ -2,8 +2,8 @@
   "name": " (☉_☉)  ",
   "short_name": " (☉_☉)  ",
   "lang": "en-us",
-  "theme_color": "rgb(251, 191, 183)",
-  "background_color": "rgb(251, 191, 183)",
+  "theme_color": "hsla(239, 100%, 82%, 1)",
+  "background_color": "hsla(239, 100%, 82%, 1)",
   "icons": [{
     "src": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
