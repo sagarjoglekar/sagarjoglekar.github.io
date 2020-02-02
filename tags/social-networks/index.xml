@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>social networks |  (☉_☉)  </title>
+    <title>Social Networks |  (☉_☉)  </title>
     <link>https://sagarjoglekar.com/tags/social-networks/</link>
       <atom:link href="https://sagarjoglekar.com/tags/social-networks/index.xml" rel="self" type="application/rss+xml" />
-    <description>social networks</description>
+    <description>Social Networks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2019 08:44:18 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>social networks</title>
+      <title>Social Networks</title>
       <link>https://sagarjoglekar.com/tags/social-networks/</link>
     </image>
-    
-    <item>
-      <title>About engagment and networked systems</title>
-      <link>https://sagarjoglekar.com/project/modeluserengagement/</link>
-      <pubDate>Sun, 29 Apr 2018 12:50:16 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/project/modeluserengagement/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Measuring the partisan web and its effects</title>
       <link>https://sagarjoglekar.com/project/hyperpartisannews/</link>
       <pubDate>Sun, 29 Apr 2018 12:50:02 +0100</pubDate>
       <guid>https://sagarjoglekar.com/project/hyperpartisannews/</guid>
-      <description></description>
+      <description>&lt;p&gt;The internet has made seamless access to information, a reality. As a result, a lot of issues of the offline world, are now being voiced, shared, and discussed on the internet; including but not limited to partisan and hot button issues. As a result, phenomenona like fake news and partisan news have become a central theme for inter-disciplinary research. This project links together all the works done to investigate the hyper-partisan ecosystem and other social media processes that may have profound effects on how democracy functions in our post internet world&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About engagment and networked systems</title>
+      <link>https://sagarjoglekar.com/project/modeluserengagement/</link>
+      <pubDate>Sun, 29 Apr 2018 12:50:16 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/project/modeluserengagement/</guid>
+      <description>&lt;p&gt;There has been a large churn of new ideas, exploring new ways to network people and their content. From primacy driven social media platforms like Tik-tok, Vine and Instagram, to a more decentralized socially curated content platform like Mastodom. Here I explore models, methods and pipelines to measure how humans adopt and interact with these new and innovative platforms.&lt;/p&gt;
+</description>
     </item>
     
     <item>

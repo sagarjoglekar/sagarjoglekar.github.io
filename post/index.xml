@@ -13,6 +13,25 @@
     </image>
     
     <item>
+      <title>Press cover for Facelift</title>
+      <link>https://sagarjoglekar.com/post/facelift/</link>
+      <pubDate>Fri, 31 Jan 2020 12:14:56 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/post/facelift/</guid>
+      <description>&lt;p&gt;I am very happy to announce the publication of &amp;ldquo;FaceLift: a transparent deep learning framework to beautify urban scenes&amp;rdquo; in the Royal soceity open science journal&lt;/p&gt;
+&lt;p&gt;Facelift is a Deeplearning driven algorithm, that goes beyond assessing beauty in urban scenes (streetviews) &amp;ndash; as done by other studies in the field &amp;ndash; and recreates the elements that can make any given urban scene more beautiful. It then explains away the elements behind the beauty using metrics which are commonly understood by the target users of this system such as Urban Planners and Architects.&lt;/p&gt;
+&lt;p&gt;The study builds a model of urban beauty(X) using 20,000 street view images, and around 1 million votes from the crowds about the beauty of any given streetview. It then uses Generative Adversarial models, to mutate an input image into something that maximizes its beauty score for the model X.
+The differences between the input and the output urban scenes are then explained using computer vision algorithms in terms of 5 urban design metric viz. Walkability, Greenery, Complexity, Openness and Landmarks.&lt;/p&gt;
+&lt;p&gt;We believe this system is the first step towards augmenting the urban planning industry using AI, and that too at the scale of an entire city.&lt;/p&gt;
+&lt;p&gt;This article has got some press attention too. Please find some coverages below :&lt;/p&gt;
+&lt;p&gt;Fast Company: &lt;a href=&#34;https://www.fastcompany.com/90455358/ai-can-now-design-cities-should-we-let-it&#34;&gt;https://www.fastcompany.com/90455358/ai-can-now-design-cities-should-we-let-it&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cosmos Magazine: &lt;a href=&#34;https://cosmosmagazine.com/technology/want-to-beautify-your-street-ask-a-computer&#34;&gt;https://cosmosmagazine.com/technology/want-to-beautify-your-street-ask-a-computer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can find the paper and some resources around this project below:&lt;/p&gt;
+&lt;p&gt;Link to article: &lt;a href=&#34;https://royalsocietypublishing.org/doi/10.1098/rsos.190987&#34;&gt;https://royalsocietypublishing.org/doi/10.1098/rsos.190987&lt;/a&gt;
+Link to interactive map: &lt;a href=&#34;https://goodcitylife.org/facelift/index.php&#34;&gt;https://goodcitylife.org/facelift/index.php&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Successfully defended the Ph.D.</title>
       <link>https://sagarjoglekar.com/post/defense/</link>
       <pubDate>Fri, 06 Dec 2019 12:14:56 +0100</pubDate>

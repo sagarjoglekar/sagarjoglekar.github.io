@@ -13,19 +13,22 @@
     </image>
     
     <item>
+      <title>Quantifying the Urban Exposome</title>
+      <link>https://sagarjoglekar.com/project/theurbanexposome/</link>
+      <pubDate>Sun, 29 Apr 2018 12:50:16 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/project/theurbanexposome/</guid>
+      <description>&lt;p&gt;The 21st century would witness one of the largest urban migration in human history. A lot of research has gone into understanding the effects of urban life on human physical and mental health. The results have been unanimous: The urban environment has long lasting impacts on our well being.&lt;/p&gt;
+&lt;p&gt;These impacts , albeit sometime negative, are correctable using simple but effective measures. These interventions often come in the form of urban design changes or changes in the way people use the city. In this project, I attempt at quantifying this Urban Exposome, using techiques from deep learning, complex network, GIS and NLP, by designing predictive models of different urban elements and their effect on human health and well being.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>About engagment and networked systems</title>
       <link>https://sagarjoglekar.com/project/modeluserengagement/</link>
       <pubDate>Sun, 29 Apr 2018 12:50:16 +0100</pubDate>
       <guid>https://sagarjoglekar.com/project/modeluserengagement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantifying the Urban lives</title>
-      <link>https://sagarjoglekar.com/project/explainurbanbeauty/</link>
-      <pubDate>Sun, 29 Oct 2017 12:50:32 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/project/explainurbanbeauty/</guid>
-      <description></description>
+      <description>&lt;p&gt;There has been a large churn of new ideas, exploring new ways to network people and their content. From primacy driven social media platforms like Tik-tok, Vine and Instagram, to a more decentralized socially curated content platform like Mastodom. Here I explore models, methods and pipelines to measure how humans adopt and interact with these new and innovative platforms.&lt;/p&gt;
+</description>
     </item>
     
     <item>

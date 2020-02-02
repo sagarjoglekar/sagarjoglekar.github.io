@@ -5,12 +5,28 @@
     <link>https://sagarjoglekar.com/tags/</link>
       <atom:link href="https://sagarjoglekar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 14:33:32 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2020 12:14:56 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://sagarjoglekar.com/tags/</link>
     </image>
+    
+    <item>
+      <title>News</title>
+      <link>https://sagarjoglekar.com/tags/news/</link>
+      <pubDate>Fri, 31 Jan 2020 12:14:56 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Informatics</title>
+      <link>https://sagarjoglekar.com/tags/urban-informatics/</link>
+      <pubDate>Fri, 31 Jan 2020 12:14:56 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/urban-informatics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Visualization</title>
@@ -29,22 +45,6 @@
     </item>
     
     <item>
-      <title>Urban Informatics</title>
-      <link>https://sagarjoglekar.com/tags/urban-informatics/</link>
-      <pubDate>Wed, 15 Jan 2020 14:33:32 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/urban-informatics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://sagarjoglekar.com/tags/news/</link>
-      <pubDate>Fri, 06 Dec 2019 12:14:56 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Decentralised web</title>
       <link>https://sagarjoglekar.com/tags/decentralised-web/</link>
       <pubDate>Sun, 20 Oct 2019 08:44:18 +0100</pubDate>
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>social networks</title>
+      <title>Social Networks</title>
       <link>https://sagarjoglekar.com/tags/social-networks/</link>
       <pubDate>Sun, 20 Oct 2019 08:44:18 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/social-networks/</guid>
