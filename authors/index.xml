@@ -5,7 +5,7 @@
     <link>https://sagarjoglekar.com/authors/</link>
       <atom:link href="https://sagarjoglekar.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 14:33:32 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2020 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -15,8 +15,40 @@
     <item>
       <title>**Sagar Joglekar**</title>
       <link>https://sagarjoglekar.com/authors/sagar-joglekar/</link>
-      <pubDate>Wed, 15 Jan 2020 14:33:32 +0100</pubDate>
+      <pubDate>Sun, 26 Jan 2020 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/authors/sagar-joglekar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicolas Kourtellis</title>
+      <link>https://sagarjoglekar.com/authors/nicolas-kourtellis/</link>
+      <pubDate>Sun, 26 Jan 2020 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/authors/nicolas-kourtellis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nishanth Sastry</title>
+      <link>https://sagarjoglekar.com/authors/nishanth-sastry/</link>
+      <pubDate>Sun, 26 Jan 2020 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/authors/nishanth-sastry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panagiotis Papadopoulos</title>
+      <link>https://sagarjoglekar.com/authors/panagiotis-papadopoulos/</link>
+      <pubDate>Sun, 26 Jan 2020 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/authors/panagiotis-papadopoulos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pushkal Agarwal</title>
+      <link>https://sagarjoglekar.com/authors/pushkal-agarwal/</link>
+      <pubDate>Sun, 26 Jan 2020 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/authors/pushkal-agarwal/</guid>
       <description></description>
     </item>
     
@@ -41,14 +73,6 @@
       <link>https://sagarjoglekar.com/authors/miriam-redi/</link>
       <pubDate>Wed, 15 Jan 2020 14:33:32 +0100</pubDate>
       <guid>https://sagarjoglekar.com/authors/miriam-redi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nishanth Sastry</title>
-      <link>https://sagarjoglekar.com/authors/nishanth-sastry/</link>
-      <pubDate>Wed, 15 Jan 2020 14:33:32 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/authors/nishanth-sastry/</guid>
       <description></description>
     </item>
     
