@@ -5,12 +5,44 @@
     <link>https://sagarjoglekar.com/tags/</link>
       <atom:link href="https://sagarjoglekar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2020 12:14:56 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 May 2020 14:33:32 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://sagarjoglekar.com/tags/</link>
     </image>
+    
+    <item>
+      <title>Behaviour modelling</title>
+      <link>https://sagarjoglekar.com/tags/behaviour-modelling/</link>
+      <pubDate>Tue, 26 May 2020 14:33:32 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/behaviour-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complex networks</title>
+      <link>https://sagarjoglekar.com/tags/complex-networks/</link>
+      <pubDate>Tue, 26 May 2020 14:33:32 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/complex-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Networks</title>
+      <link>https://sagarjoglekar.com/tags/social-networks/</link>
+      <pubDate>Tue, 26 May 2020 14:33:32 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/social-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hyperpartisannews</title>
+      <link>https://sagarjoglekar.com/tags/hyperpartisannews/</link>
+      <pubDate>Fri, 31 Jan 2020 12:14:56 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/hyperpartisannews/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>News</title>
@@ -25,22 +57,6 @@
       <link>https://sagarjoglekar.com/tags/urban-informatics/</link>
       <pubDate>Fri, 31 Jan 2020 12:14:56 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/urban-informatics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Behaviour modelling</title>
-      <link>https://sagarjoglekar.com/tags/behaviour-modelling/</link>
-      <pubDate>Sun, 26 Jan 2020 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/behaviour-modelling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>complex networks</title>
-      <link>https://sagarjoglekar.com/tags/complex-networks/</link>
-      <pubDate>Sun, 26 Jan 2020 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/complex-networks/</guid>
       <description></description>
     </item>
     
@@ -77,14 +93,6 @@
     </item>
     
     <item>
-      <title>Social Networks</title>
-      <link>https://sagarjoglekar.com/tags/social-networks/</link>
-      <pubDate>Sun, 20 Oct 2019 08:44:18 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/social-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>NLP</title>
       <link>https://sagarjoglekar.com/tags/nlp/</link>
       <pubDate>Sun, 29 Apr 2018 12:51:11 +0100</pubDate>
@@ -97,14 +105,6 @@
       <link>https://sagarjoglekar.com/tags/measurements/</link>
       <pubDate>Sun, 29 Apr 2018 12:50:02 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/measurements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hyperpartisannews</title>
-      <link>https://sagarjoglekar.com/tags/hyperpartisannews/</link>
-      <pubDate>Tue, 08 Aug 2017 11:36:45 +0000</pubDate>
-      <guid>https://sagarjoglekar.com/tags/hyperpartisannews/</guid>
       <description></description>
     </item>
     

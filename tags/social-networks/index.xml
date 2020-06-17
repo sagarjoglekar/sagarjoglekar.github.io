@@ -5,7 +5,7 @@
     <link>https://sagarjoglekar.com/tags/social-networks/</link>
       <atom:link href="https://sagarjoglekar.com/tags/social-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Social Networks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2019 08:44:18 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 May 2020 14:33:32 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
       <title>Social Networks</title>
@@ -30,6 +30,14 @@
       <guid>https://sagarjoglekar.com/project/modeluserengagement/</guid>
       <description>&lt;p&gt;There has been a large churn of new ideas, exploring new ways to network people and their content. From primacy driven social media platforms like Tik-tok, Vine and Instagram, to a more decentralized socially curated content platform like Mastodom. Here I explore models, methods and pipelines to measure how humans adopt and interact with these new and innovative platforms.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Characterising User Content on a Multi-lingual Social Network</title>
+      <link>https://sagarjoglekar.com/publication/icwsm20/</link>
+      <pubDate>Tue, 26 May 2020 14:33:32 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/icwsm20/</guid>
+      <description></description>
     </item>
     
     <item>

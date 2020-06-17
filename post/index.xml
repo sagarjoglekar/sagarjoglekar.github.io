@@ -32,6 +32,20 @@ Link to interactive map: &lt;a href=&#34;https://goodcitylife.org/facelift/index
     </item>
     
     <item>
+      <title>Press cover for our WWW 2020 paper: Stop Tracking Me Bro! Differential Tracking Of User Demographics On Hyper-partisan Websites</title>
+      <link>https://sagarjoglekar.com/post/trackingpresscover/</link>
+      <pubDate>Fri, 31 Jan 2020 12:14:56 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/post/trackingpresscover/</guid>
+      <description>&lt;p&gt;Super excited to see that our paper on measuring differential behaviour of ad-tracking ecosystem towards the consumers of hyper-partisan websites was covered by the Wired news.&lt;/p&gt;
+&lt;p&gt;In this paper, we simulated behaviours of users belonging to particular partisan and demographic classes, and observed how the online advertisement machinenary tracks them as they visit well known partisan news websites. To our surprise, we found that the very nature of such automated profiling systems pushes them to preferentially track users with specific partisan lean more. This also reflects in the difference in the tracking behaviour of right leaning users visiting right leaning news websites versus left leaning news websites. We open source the framework and the data, to further the understanding around how our partisan attitudes shape the advertisement ecosystem on the web.&lt;/p&gt;
+&lt;p&gt;The paper conjectures that the partisan nature of today&#39;s news ecosystem might actually seep into the tracking machinery; over time learning the likes and dislikes along partisan lines.&lt;/p&gt;
+&lt;p&gt;Press coverage by Wired news: &lt;a href=&#34;https://www.wired.com/story/right-left-news-site-ad-tracking/&#34;&gt;https://www.wired.com/story/right-left-news-site-ad-tracking/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can find the paper and some resources around this project below:&lt;/p&gt;
+&lt;p&gt;Link to article: &lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3366423.3380221&#34;&gt;https://dl.acm.org/doi/pdf/10.1145/3366423.3380221&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Successfully defended the Ph.D.</title>
       <link>https://sagarjoglekar.com/post/defense/</link>
       <pubDate>Fri, 06 Dec 2019 12:14:56 +0100</pubDate>

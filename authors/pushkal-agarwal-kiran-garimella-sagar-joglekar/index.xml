@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gareth Tyson |  (☉_☉)  </title>
-    <link>https://sagarjoglekar.com/authors/gareth-tyson/</link>
-      <atom:link href="https://sagarjoglekar.com/authors/gareth-tyson/index.xml" rel="self" type="application/rss+xml" />
-    <description>Gareth Tyson</description>
+    <title>Pushkal Agarwal, Kiran Garimella, **Sagar Joglekar** |  (☉_☉)  </title>
+    <link>https://sagarjoglekar.com/authors/pushkal-agarwal-kiran-garimella-sagar-joglekar/</link>
+      <atom:link href="https://sagarjoglekar.com/authors/pushkal-agarwal-kiran-garimella-sagar-joglekar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pushkal Agarwal, Kiran Garimella, **Sagar Joglekar**</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 May 2020 14:33:32 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
-      <title>Gareth Tyson</title>
-      <link>https://sagarjoglekar.com/authors/gareth-tyson/</link>
+      <title>Pushkal Agarwal, Kiran Garimella, **Sagar Joglekar**</title>
+      <link>https://sagarjoglekar.com/authors/pushkal-agarwal-kiran-garimella-sagar-joglekar/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://sagarjoglekar.com/publication/icwsm20/</link>
       <pubDate>Tue, 26 May 2020 14:33:32 +0100</pubDate>
       <guid>https://sagarjoglekar.com/publication/icwsm20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Challenges in the Decentralised Web: The Mastodon Case</title>
-      <link>https://sagarjoglekar.com/publication/imc2019/</link>
-      <pubDate>Sun, 20 Oct 2019 08:44:18 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/publication/imc2019/</guid>
       <description></description>
     </item>
     

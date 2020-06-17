@@ -5,12 +5,20 @@
     <link>https://sagarjoglekar.com/authors/nishanth-sastry/</link>
       <atom:link href="https://sagarjoglekar.com/authors/nishanth-sastry/index.xml" rel="self" type="application/rss+xml" />
     <description>Nishanth Sastry</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2020 12:29:38 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 May 2020 14:33:32 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
       <title>Nishanth Sastry</title>
       <link>https://sagarjoglekar.com/authors/nishanth-sastry/</link>
     </image>
+    
+    <item>
+      <title>Characterising User Content on a Multi-lingual Social Network</title>
+      <link>https://sagarjoglekar.com/publication/icwsm20/</link>
+      <pubDate>Tue, 26 May 2020 14:33:32 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/icwsm20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stop Tracking Me Bro! Differential Tracking Of User Demographics On Hyper-partisan Websites</title>
