@@ -5,7 +5,7 @@
     <link>https://sagarjoglekar.com/tags/hyperpartisannews/</link>
       <atom:link href="https://sagarjoglekar.com/tags/hyperpartisannews/index.xml" rel="self" type="application/rss+xml" />
     <description>hyperpartisannews</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2020 12:14:56 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 12:14:56 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
       <title>hyperpartisannews</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Press cover for our WWW 2020 paper: Stop Tracking Me Bro! Differential Tracking Of User Demographics On Hyper-partisan Websites</title>
       <link>https://sagarjoglekar.com/post/trackingpresscover/</link>
-      <pubDate>Fri, 31 Jan 2020 12:14:56 +0100</pubDate>
+      <pubDate>Tue, 11 Feb 2020 12:14:56 +0100</pubDate>
       <guid>https://sagarjoglekar.com/post/trackingpresscover/</guid>
       <description>&lt;p&gt;Super excited to see that our paper on measuring differential behaviour of ad-tracking ecosystem towards the consumers of hyper-partisan websites was covered by the Wired news.&lt;/p&gt;
 &lt;p&gt;In this paper, we simulated behaviours of users belonging to particular partisan and demographic classes, and observed how the online advertisement machinenary tracks them as they visit well known partisan news websites. To our surprise, we found that the very nature of such automated profiling systems pushes them to preferentially track users with specific partisan lean more. This also reflects in the difference in the tracking behaviour of right leaning users visiting right leaning news websites versus left leaning news websites. We open source the framework and the data, to further the understanding around how our partisan attitudes shape the advertisement ecosystem on the web.&lt;/p&gt;
