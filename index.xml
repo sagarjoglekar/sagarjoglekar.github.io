@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> (☉_☉)  </title>
+    <title>(☉_☉)</title>
     <link>https://sagarjoglekar.com/</link>
       <atom:link href="https://sagarjoglekar.com/index.xml" rel="self" type="application/rss+xml" />
-    <description> (☉_☉)  </description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 May 2020 14:33:32 +0100</lastBuildDate>
+    <description>(☉_☉)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 16:19:15 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
-      <title> (☉_☉)  </title>
+      <title>(☉_☉)</title>
       <link>https://sagarjoglekar.com/</link>
     </image>
     
@@ -61,6 +61,14 @@
       <guid>https://sagarjoglekar.com/project/miscellaneous/</guid>
       <description>&lt;p&gt;Some miscellanious projects on Digital convergence, DRM, steganography, Computervision and networks&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Analysing Meso and Macro conversation structures in an online suicide support forum</title>
+      <link>https://sagarjoglekar.com/publication/triads/</link>
+      <pubDate>Tue, 21 Jul 2020 16:19:15 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/triads/</guid>
+      <description></description>
     </item>
     
     <item>

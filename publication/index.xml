@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications |  (☉_☉)  </title>
+    <title>Publications | (☉_☉)</title>
     <link>https://sagarjoglekar.com/publication/</link>
       <atom:link href="https://sagarjoglekar.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -11,6 +11,14 @@
       <title>Publications</title>
       <link>https://sagarjoglekar.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Analysing Meso and Macro conversation structures in an online suicide support forum</title>
+      <link>https://sagarjoglekar.com/publication/triads/</link>
+      <pubDate>Tue, 21 Jul 2020 16:19:15 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/triads/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Characterising User Content on a Multi-lingual Social Network</title>

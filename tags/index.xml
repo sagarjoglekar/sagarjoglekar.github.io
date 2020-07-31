@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags |  (☉_☉)  </title>
+    <title>Tags | (☉_☉)</title>
     <link>https://sagarjoglekar.com/tags/</link>
       <atom:link href="https://sagarjoglekar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 May 2020 14:33:32 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 16:19:15 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Behaviour modelling</title>
       <link>https://sagarjoglekar.com/tags/behaviour-modelling/</link>
-      <pubDate>Tue, 26 May 2020 14:33:32 +0100</pubDate>
+      <pubDate>Tue, 21 Jul 2020 16:19:15 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/behaviour-modelling/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>complex networks</title>
       <link>https://sagarjoglekar.com/tags/complex-networks/</link>
-      <pubDate>Tue, 26 May 2020 14:33:32 +0100</pubDate>
+      <pubDate>Tue, 21 Jul 2020 16:19:15 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/complex-networks/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Social Networks</title>
       <link>https://sagarjoglekar.com/tags/social-networks/</link>
-      <pubDate>Tue, 26 May 2020 14:33:32 +0100</pubDate>
+      <pubDate>Tue, 21 Jul 2020 16:19:15 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/social-networks/</guid>
       <description></description>
     </item>
