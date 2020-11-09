@@ -5,7 +5,7 @@
     <link>https://sagarjoglekar.com/tags/</link>
       <atom:link href="https://sagarjoglekar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 16:19:15 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Behaviour modelling</title>
       <link>https://sagarjoglekar.com/tags/behaviour-modelling/</link>
-      <pubDate>Tue, 21 Jul 2020 16:19:15 +0100</pubDate>
+      <pubDate>Sat, 26 Sep 2020 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/behaviour-modelling/</guid>
       <description></description>
     </item>
@@ -23,13 +23,21 @@
     <item>
       <title>complex networks</title>
       <link>https://sagarjoglekar.com/tags/complex-networks/</link>
-      <pubDate>Tue, 21 Jul 2020 16:19:15 +0100</pubDate>
+      <pubDate>Thu, 10 Sep 2020 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/complex-networks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>social networks</title>
+      <title>Machine Learning</title>
+      <link>https://sagarjoglekar.com/tags/machine-learning/</link>
+      <pubDate>Thu, 10 Sep 2020 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Networks</title>
       <link>https://sagarjoglekar.com/tags/social-networks/</link>
       <pubDate>Tue, 21 Jul 2020 16:19:15 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/social-networks/</guid>
@@ -57,14 +65,6 @@
       <link>https://sagarjoglekar.com/tags/urban-informatics/</link>
       <pubDate>Fri, 31 Jan 2020 12:14:56 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/urban-informatics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://sagarjoglekar.com/tags/machine-learning/</link>
-      <pubDate>Sun, 26 Jan 2020 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/machine-learning/</guid>
       <description></description>
     </item>
     

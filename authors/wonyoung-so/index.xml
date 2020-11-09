@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning | (☉_☉)</title>
-    <link>https://sagarjoglekar.com/tags/machine-learning/</link>
-      <atom:link href="https://sagarjoglekar.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Machine Learning</description>
+    <title>Wonyoung So | (☉_☉)</title>
+    <link>https://sagarjoglekar.com/authors/wonyoung-so/</link>
+      <atom:link href="https://sagarjoglekar.com/authors/wonyoung-so/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wonyoung So</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
-      <title>Machine Learning</title>
-      <link>https://sagarjoglekar.com/tags/machine-learning/</link>
+      <title>Wonyoung So</title>
+      <link>https://sagarjoglekar.com/authors/wonyoung-so/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://sagarjoglekar.com/publication/iwwwvis_2/</link>
       <pubDate>Thu, 10 Sep 2020 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/publication/iwwwvis_2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stop Tracking Me Bro! Differential Tracking Of User Demographics On Hyper-partisan Websites</title>
-      <link>https://sagarjoglekar.com/publication/www2020/</link>
-      <pubDate>Sun, 26 Jan 2020 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/publication/www2020/</guid>
       <description></description>
     </item>
     

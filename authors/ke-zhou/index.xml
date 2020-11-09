@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daniele Quercia | (☉_☉)</title>
-    <link>https://sagarjoglekar.com/authors/daniele-quercia/</link>
-      <atom:link href="https://sagarjoglekar.com/authors/daniele-quercia/index.xml" rel="self" type="application/rss+xml" />
-    <description>Daniele Quercia</description>
+    <title>Ke Zhou | (☉_☉)</title>
+    <link>https://sagarjoglekar.com/authors/ke-zhou/</link>
+      <atom:link href="https://sagarjoglekar.com/authors/ke-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ke Zhou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
-      <title>Daniele Quercia</title>
-      <link>https://sagarjoglekar.com/authors/daniele-quercia/</link>
+      <title>Ke Zhou</title>
+      <link>https://sagarjoglekar.com/authors/ke-zhou/</link>
     </image>
     
     <item>
@@ -25,22 +25,6 @@
       <link>https://sagarjoglekar.com/publication/iwwwvis_2/</link>
       <pubDate>Thu, 10 Sep 2020 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/publication/iwwwvis_2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FaceLift: a transparent deep learning framework to beautify urban scenes</title>
-      <link>https://sagarjoglekar.com/publication/facelift_pipeline/</link>
-      <pubDate>Wed, 15 Jan 2020 14:33:32 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/publication/facelift_pipeline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mapping and Visualizing Deep-Learning Urban Beautification</title>
-      <link>https://sagarjoglekar.com/publication/facelift_dataviz/</link>
-      <pubDate>Thu, 11 Oct 2018 14:33:32 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/publication/facelift_dataviz/</guid>
       <description></description>
     </item>
     
