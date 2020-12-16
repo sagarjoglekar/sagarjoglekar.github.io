@@ -5,7 +5,7 @@
     <link>https://sagarjoglekar.com/authors/</link>
       <atom:link href="https://sagarjoglekar.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 12:29:38 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -15,8 +15,32 @@
     <item>
       <title>**Sagar Joglekar**</title>
       <link>https://sagarjoglekar.com/authors/sagar-joglekar/</link>
-      <pubDate>Sat, 26 Sep 2020 12:29:38 +0100</pubDate>
+      <pubDate>Tue, 27 Oct 2020 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/authors/sagar-joglekar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boschi, G.</title>
+      <link>https://sagarjoglekar.com/authors/boschi-g./</link>
+      <pubDate>Tue, 27 Oct 2020 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/authors/boschi-g./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sastry, N.</title>
+      <link>https://sagarjoglekar.com/authors/sastry-n./</link>
+      <pubDate>Tue, 27 Oct 2020 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/authors/sastry-n./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Young, A.P.</title>
+      <link>https://sagarjoglekar.com/authors/young-a.p./</link>
+      <pubDate>Tue, 27 Oct 2020 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/authors/young-a.p./</guid>
       <description></description>
     </item>
     
