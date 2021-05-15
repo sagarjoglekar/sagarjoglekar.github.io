@@ -5,12 +5,28 @@
     <link>https://sagarjoglekar.com/authors/daniele-quercia/</link>
       <atom:link href="https://sagarjoglekar.com/authors/daniele-quercia/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Quercia</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Sep 2020 12:29:38 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Feb 2021 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
       <title>Daniele Quercia</title>
       <link>https://sagarjoglekar.com/authors/daniele-quercia/</link>
     </image>
+    
+    <item>
+      <title>Jane Jacobs in the Sky: Predicting Urban Vitality with Open Satellite Data</title>
+      <link>https://sagarjoglekar.com/publication/cscw21/</link>
+      <pubDate>Mon, 15 Feb 2021 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/cscw21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KAIROS: Talking Heads and Moving Bodies for Successful Meetings</title>
+      <link>https://sagarjoglekar.com/publication/hotmobile21/</link>
+      <pubDate>Mon, 15 Feb 2021 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/hotmobile21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MeetCues: Supporting Online Meetings Experience</title>

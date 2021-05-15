@@ -5,7 +5,7 @@
     <link>https://sagarjoglekar.com/</link>
       <atom:link href="https://sagarjoglekar.com/index.xml" rel="self" type="application/rss+xml" />
     <description>(☉_☉)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 12:29:38 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Feb 2021 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
       <title>(☉_☉)</title>
@@ -61,6 +61,22 @@
       <guid>https://sagarjoglekar.com/project/miscellaneous/</guid>
       <description>&lt;p&gt;Some miscellanious projects on Digital convergence, DRM, steganography, Computervision and networks&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Jane Jacobs in the Sky: Predicting Urban Vitality with Open Satellite Data</title>
+      <link>https://sagarjoglekar.com/publication/cscw21/</link>
+      <pubDate>Mon, 15 Feb 2021 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/cscw21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KAIROS: Talking Heads and Moving Bodies for Successful Meetings</title>
+      <link>https://sagarjoglekar.com/publication/hotmobile21/</link>
+      <pubDate>Mon, 15 Feb 2021 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/hotmobile21/</guid>
+      <description></description>
     </item>
     
     <item>

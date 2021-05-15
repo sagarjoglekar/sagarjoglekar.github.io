@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marios Constantinides | (☉_☉)</title>
-    <link>https://sagarjoglekar.com/authors/marios-constantinides/</link>
-      <atom:link href="https://sagarjoglekar.com/authors/marios-constantinides/index.xml" rel="self" type="application/rss+xml" />
-    <description>Marios Constantinides</description>
+    <title>Jun-Ho Choi | (☉_☉)</title>
+    <link>https://sagarjoglekar.com/authors/jun-ho-choi/</link>
+      <atom:link href="https://sagarjoglekar.com/authors/jun-ho-choi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun-Ho Choi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Feb 2021 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
-      <title>Marios Constantinides</title>
-      <link>https://sagarjoglekar.com/authors/marios-constantinides/</link>
+      <title>Jun-Ho Choi</title>
+      <link>https://sagarjoglekar.com/authors/jun-ho-choi/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://sagarjoglekar.com/publication/hotmobile21/</link>
       <pubDate>Mon, 15 Feb 2021 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/publication/hotmobile21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MeetCues: Supporting Online Meetings Experience</title>
-      <link>https://sagarjoglekar.com/publication/iwwwvis_1/</link>
-      <pubDate>Sat, 26 Sep 2020 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/publication/iwwwvis_1/</guid>
       <description></description>
     </item>
     
