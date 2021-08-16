@@ -17,9 +17,9 @@
       <link>https://sagarjoglekar.com/project/theurbanexposome/</link>
       <pubDate>Sun, 29 Apr 2018 12:50:16 +0100</pubDate>
       <guid>https://sagarjoglekar.com/project/theurbanexposome/</guid>
-      <description>&lt;p&gt;The 21st century would witness one of the largest urban migration in human history. A lot of research has gone into understanding the effects of urban life on human physical and mental health. The results have been unanimous: The urban environment has long lasting impacts on our well being.&lt;/p&gt;
-&lt;p&gt;These impacts , albeit sometime negative, are correctable using simple but effective measures. These interventions often come in the form of urban design changes or changes in the way people use the city. In this project, I attempt at quantifying this Urban Exposome, using techiques from deep learning, complex network, GIS and NLP, by designing predictive models of different urban elements and their effect on human health and well being.&lt;/p&gt;
-&lt;p&gt;This work has got some press attention too. Please find some coverages below :&lt;/p&gt;
+      <description>&lt;p&gt;The 21st century would witness one of the largest urban migration in human history. A lot of research has gone into understanding the effects of the urban life on physical and mental health. The results have been unanimous: The urban environment has long lasting impacts on our well being. The facets of our urban environment that impact on our health and well being are called the urban exposome.
+In these projects, I attempt to quantify this exposome using techiques from deep learning, complex network, GIS, and NLP.&lt;/p&gt;
+&lt;p&gt;These works have got some press attention. Please find some coverages below:&lt;/p&gt;
 &lt;p&gt;Fast Company: &lt;a href=&#34;https://www.fastcompany.com/90455358/ai-can-now-design-cities-should-we-let-it&#34;&gt;https://www.fastcompany.com/90455358/ai-can-now-design-cities-should-we-let-it&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Cosmos Magazine: &lt;a href=&#34;https://cosmosmagazine.com/technology/want-to-beautify-your-street-ask-a-computer&#34;&gt;https://cosmosmagazine.com/technology/want-to-beautify-your-street-ask-a-computer&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -30,7 +30,7 @@
       <link>https://sagarjoglekar.com/project/modelsocialsupport/</link>
       <pubDate>Sun, 29 Apr 2018 12:51:11 +0100</pubDate>
       <guid>https://sagarjoglekar.com/project/modelsocialsupport/</guid>
-      <description>&lt;p&gt;We as a soceity have accepted the internet as an extension of the self. The online disinhibition effect sometimes allows us to open up to strangers online. This means, sometimes, the internet fills the gaps in intimacy, care, and support craved by the millions who are suffering or under distress. In this project, I explore the world of online support forums, using methods from complex networks and NLP to understand the nature of online support.&lt;/p&gt;
+      <description>&lt;p&gt;We as a soceity have accepted the internet as an extension of the self. The online disinhibition effect sometimes allows us to open up to strangers in order to seek support, or disclose proxies for medical conditions in the process of being social on the networking platforms. In these works, I explored different models in order to capture these concepts, using methods from complex networks and NLP.&lt;/p&gt;
 </description>
     </item>
     
@@ -39,27 +39,18 @@
       <link>https://sagarjoglekar.com/project/hyperpartisannews/</link>
       <pubDate>Sun, 29 Apr 2018 12:50:02 +0100</pubDate>
       <guid>https://sagarjoglekar.com/project/hyperpartisannews/</guid>
-      <description>&lt;p&gt;The internet has made seamless access to information, a reality. As a result, a lot of issues of the offline world, are now being voiced, shared, and discussed on the internet; including but not limited to partisan and hot button issues. As a result, phenomenona like fake news and partisan news have become a central theme for inter-disciplinary research. This project links together all the works done to investigate the hyper-partisan ecosystem and other social media processes that may have profound effects on how democracy functions in our post internet world&lt;/p&gt;
-&lt;p&gt;Some press coverage for this work:&lt;/p&gt;
+      <description>&lt;p&gt;The internet has made seamless access to information channels, a reality. As a result, a lot of issues of the offline world, are now being voiced, shared, and discussed on the internet; including but not limited to partisan and hot button issues. As a result, phenomenona like fake news and polarising partisan news have become a central theme for inter-disciplinary research. These works investigate the hyper-partisan ecosystem and other social media processes that may have profound effects on how democracy functions in our post internet world&lt;/p&gt;
+&lt;p&gt;Some press coverage for this work can be found below:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.buzzfeednews.com/article/craigsilverman/inside-the-partisan-fight-for-your-news-feed&#34;&gt;Buzz feed coverage&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>About engagment and networked systems</title>
+      <title>Quantifying engagement in networked systems</title>
       <link>https://sagarjoglekar.com/project/modeluserengagement/</link>
       <pubDate>Sun, 29 Apr 2018 12:50:16 +0100</pubDate>
       <guid>https://sagarjoglekar.com/project/modeluserengagement/</guid>
-      <description>&lt;p&gt;There has been a large churn of new ideas, exploring new ways to network people and their content. From primacy driven social media platforms like Tik-tok, Vine and Instagram, to a more decentralized socially curated content platform like Mastodom. Here I explore models, methods and pipelines to measure how humans adopt and interact with these new and innovative platforms.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Miscellaneous projects</title>
-      <link>https://sagarjoglekar.com/project/miscellaneous/</link>
-      <pubDate>Tue, 29 Apr 2014 12:51:55 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/project/miscellaneous/</guid>
-      <description>&lt;p&gt;Some miscellanious projects on Digital convergence, DRM, steganography, Computervision and networks&lt;/p&gt;
+      <description>&lt;p&gt;There has been a churn of new platforms exploring new ways to network people, and their content. From primacy driven social media platforms like Tik-tok, Vine and Instagram, to a more decentralized socially curated content platform like Mastodom. These works explore models, methods, and pipelines to measure how humans adopt and interact with these new and innovative platforms.&lt;/p&gt;
 </description>
     </item>
     

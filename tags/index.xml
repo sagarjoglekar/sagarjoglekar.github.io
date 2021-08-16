@@ -5,12 +5,36 @@
     <link>https://sagarjoglekar.com/tags/</link>
       <atom:link href="https://sagarjoglekar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Jul 2021 12:14:56 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Aug 2021 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://sagarjoglekar.com/tags/</link>
     </image>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://sagarjoglekar.com/tags/data-visualization/</link>
+      <pubDate>Sun, 15 Aug 2021 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning</title>
+      <link>https://sagarjoglekar.com/tags/deep-learning/</link>
+      <pubDate>Sun, 15 Aug 2021 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Informatics</title>
+      <link>https://sagarjoglekar.com/tags/urban-informatics/</link>
+      <pubDate>Sun, 15 Aug 2021 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/urban-informatics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>News</title>
@@ -37,34 +61,10 @@
     </item>
     
     <item>
-      <title>Data Visualization</title>
-      <link>https://sagarjoglekar.com/tags/data-visualization/</link>
-      <pubDate>Mon, 15 Feb 2021 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/data-visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep learning</title>
-      <link>https://sagarjoglekar.com/tags/deep-learning/</link>
-      <pubDate>Mon, 15 Feb 2021 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Future of work</title>
       <link>https://sagarjoglekar.com/tags/future-of-work/</link>
       <pubDate>Mon, 15 Feb 2021 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/future-of-work/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Urban Informatics</title>
-      <link>https://sagarjoglekar.com/tags/urban-informatics/</link>
-      <pubDate>Mon, 15 Feb 2021 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/urban-informatics/</guid>
       <description></description>
     </item>
     
@@ -93,7 +93,7 @@
     </item>
     
     <item>
-      <title>Social Networks</title>
+      <title>social networks</title>
       <link>https://sagarjoglekar.com/tags/social-networks/</link>
       <pubDate>Tue, 21 Jul 2020 16:19:15 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/social-networks/</guid>

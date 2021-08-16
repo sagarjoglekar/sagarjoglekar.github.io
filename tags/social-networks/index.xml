@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Networks | (☉_☉)</title>
+    <title>social networks | (☉_☉)</title>
     <link>https://sagarjoglekar.com/tags/social-networks/</link>
       <atom:link href="https://sagarjoglekar.com/tags/social-networks/index.xml" rel="self" type="application/rss+xml" />
-    <description>Social Networks</description>
+    <description>social networks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 16:19:15 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
-      <title>Social Networks</title>
+      <title>social networks</title>
       <link>https://sagarjoglekar.com/tags/social-networks/</link>
     </image>
     
@@ -17,18 +17,18 @@
       <link>https://sagarjoglekar.com/project/hyperpartisannews/</link>
       <pubDate>Sun, 29 Apr 2018 12:50:02 +0100</pubDate>
       <guid>https://sagarjoglekar.com/project/hyperpartisannews/</guid>
-      <description>&lt;p&gt;The internet has made seamless access to information, a reality. As a result, a lot of issues of the offline world, are now being voiced, shared, and discussed on the internet; including but not limited to partisan and hot button issues. As a result, phenomenona like fake news and partisan news have become a central theme for inter-disciplinary research. This project links together all the works done to investigate the hyper-partisan ecosystem and other social media processes that may have profound effects on how democracy functions in our post internet world&lt;/p&gt;
-&lt;p&gt;Some press coverage for this work:&lt;/p&gt;
+      <description>&lt;p&gt;The internet has made seamless access to information channels, a reality. As a result, a lot of issues of the offline world, are now being voiced, shared, and discussed on the internet; including but not limited to partisan and hot button issues. As a result, phenomenona like fake news and polarising partisan news have become a central theme for inter-disciplinary research. These works investigate the hyper-partisan ecosystem and other social media processes that may have profound effects on how democracy functions in our post internet world&lt;/p&gt;
+&lt;p&gt;Some press coverage for this work can be found below:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.buzzfeednews.com/article/craigsilverman/inside-the-partisan-fight-for-your-news-feed&#34;&gt;Buzz feed coverage&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>About engagment and networked systems</title>
+      <title>Quantifying engagement in networked systems</title>
       <link>https://sagarjoglekar.com/project/modeluserengagement/</link>
       <pubDate>Sun, 29 Apr 2018 12:50:16 +0100</pubDate>
       <guid>https://sagarjoglekar.com/project/modeluserengagement/</guid>
-      <description>&lt;p&gt;There has been a large churn of new ideas, exploring new ways to network people and their content. From primacy driven social media platforms like Tik-tok, Vine and Instagram, to a more decentralized socially curated content platform like Mastodom. Here I explore models, methods and pipelines to measure how humans adopt and interact with these new and innovative platforms.&lt;/p&gt;
+      <description>&lt;p&gt;There has been a churn of new platforms exploring new ways to network people, and their content. From primacy driven social media platforms like Tik-tok, Vine and Instagram, to a more decentralized socially curated content platform like Mastodom. These works explore models, methods, and pipelines to measure how humans adopt and interact with these new and innovative platforms.&lt;/p&gt;
 </description>
     </item>
     
