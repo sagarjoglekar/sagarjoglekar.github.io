@@ -5,12 +5,27 @@
     <link>https://sagarjoglekar.com/tags/news/</link>
       <atom:link href="https://sagarjoglekar.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Jul 2021 12:14:56 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Sep 2021 12:14:56 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
       <link>https://sagarjoglekar.com/tags/news/</link>
     </image>
+    
+    <item>
+      <title>Sensing the real world through NHS prescriptions data</title>
+      <link>https://sagarjoglekar.com/post/nhs_prescriptions/</link>
+      <pubDate>Sat, 18 Sep 2021 12:14:56 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/post/nhs_prescriptions/</guid>
+      <description>&lt;p&gt;Researchers and practitioners intererested in geography of health, social dynamics, economics, and everything in between are always interested methods that use data to sense health outcomes in the real world. If one can create proxies for health, and map them on to geographical units, one could ask important questions such as:&lt;/p&gt;
+&lt;p&gt;a) How does health of an area relate with its socio-economic conditions?&lt;/p&gt;
+&lt;p&gt;b) Are there any temporal trends or periodicities in certain health outcomes?&lt;/p&gt;
+&lt;p&gt;c) What is the relationship between health indicators from the real world and the signals obtained from online data source like social media (e.g. as seen in this paper: &lt;a href=&#34;http://social-dynamics.net/docs/icwsm-21.pdf&#34;&gt;http://social-dynamics.net/docs/icwsm-21.pdf&lt;/a&gt; )?&lt;/p&gt;
+&lt;p&gt;d) Do certain policy or demograhic factors make an area more suseptible to particular health conditions?&lt;/p&gt;
+&lt;p&gt;But in order to be creative with such questions, one needs a principled way to create proxies for health outcomes from official datasources, at scale, and map them onto geographical units. Unfortunately, most health data sources are highly protected, if not propreitary, and the processing steps required to translate raw data into geographical outcomes are tedious and often require domain knowledge.&lt;/p&gt;
+&lt;p&gt;Over the past 2 years at Bell Labs, I have been working on something that would partly solve these issues. The &lt;a href=&#34;https://github.com/sagarjoglekar/NHSPrescriptionsParser&#34;&gt;NHS Prescriptions parser&lt;/a&gt; allows practitioners to mine the openly available NHS prescriptions data to make geo-spatial estimates about health outcomes across England. A more detailed manual about the steps for usage can be found &lt;a href=&#34;https://medium.com/@SagarJoglekar/mapping-health-outcomes-at-the-scale-of-an-entire-nation-bbe0eb949eea&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The cost of being on the fence.</title>
@@ -24,8 +39,7 @@
 &lt;p&gt;&lt;img src=&#34;https://sagarjoglekar.com/img/Curiosity_impact.jpg&#34; alt=&#34;doodle&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The thesis roughly states that one has limited time to spend on this earth on things other than living, and they should optimize it to maximize &lt;strong&gt;&lt;em&gt;impact&lt;/em&gt;&lt;/strong&gt; and maximize &lt;strong&gt;&lt;em&gt;curiosity driven learning&lt;/em&gt;&lt;/strong&gt;. But a corollary of this principle is that it is extremly hard, if not impossible, to maximize both at the same time, without sacrificing other facets of life. In other words, maximizing both requires walking up the line at 45 degrees (which I call the fence) to the very top right corner. However, more often than not, you end up loitering around the central part of this fence. This is because , in my experience, maximizing either often require orthogonal sets of skills. To drive impact one needs focus of execution, and a relentless will to iterate over the build -&amp;gt; test -&amp;gt; deliver -&amp;gt; repeat cycles. To leverage curiosity, one needs an open mind and enough time to try things out. Being on the fence means you cannot do either well. This means you are not going to produce impact as measured by ROI, or number of lives affected; or produce truly deep knowledge that comes form digging deep where your curiosity leads.&lt;/p&gt;
 &lt;p&gt;I always considered myself to be a curious person, with a wide spectrum of interests. Putting myself into a box was never an intriguing idea, which is precisely why I always wanted to do a Ph.D. A doctoral journey, in my honest opinion, has more to do with the framework of thought, than with the resulting outcomes. It teaches you to start off from zero and dig deep enough to discover new knowledge, and you may do this several times in a typical Ph.D tenure. This process is immensely valuable for generalist and specialists alike.&lt;/p&gt;
-&lt;p&gt;But on the other hand, I have also always immensly valued impact, and the gratification associated with witnessing what you have built being used in the wild. This meant that I tended to default to sitting on the fence while thinking about projects and time budgets. And choosing to sit on the fence, is choosing to be in a &lt;a href=&#34;https://en.wikipedia.org/wiki/Kobayashi_Maru&#34;&gt;Kobayashi Maru&lt;/a&gt; scenario.&lt;/p&gt;
-&lt;p&gt;This has made me re-evaluate whether I have what it takes to be in academia. And certainly the answer is no. But that does not mean I do not have what it takes to be a researcher. So for now, I will be playing the jump rope with the fence, and see where that leads me.&lt;/p&gt;
+&lt;p&gt;But on the other hand, I have also always immensly valued impact, and the gratification felt while witnessing what you have built being used by real people. This tug of war between the two orthogonal phylosophies meant that I involuntarily defaulted to the fence when thinking about projects and time commitments. Choosing to sit on the fence is deliberately choosing a sub-optimal environment, thereby limiting your opportunities to thrive. So for now, I will be playing the jump rope with the fence, and see where that leads me.&lt;/p&gt;
 </description>
     </item>
     
