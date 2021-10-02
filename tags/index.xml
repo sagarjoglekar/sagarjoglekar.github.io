@@ -5,12 +5,28 @@
     <link>https://sagarjoglekar.com/tags/</link>
       <atom:link href="https://sagarjoglekar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Sep 2021 12:14:56 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Sep 2021 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://sagarjoglekar.com/tags/</link>
     </image>
+    
+    <item>
+      <title>Behaviour modelling</title>
+      <link>https://sagarjoglekar.com/tags/behaviour-modelling/</link>
+      <pubDate>Mon, 27 Sep 2021 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/behaviour-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future of work</title>
+      <link>https://sagarjoglekar.com/tags/future-of-work/</link>
+      <pubDate>Mon, 27 Sep 2021 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/future-of-work/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>News</title>
@@ -45,26 +61,10 @@
     </item>
     
     <item>
-      <title>Behaviour modelling</title>
-      <link>https://sagarjoglekar.com/tags/behaviour-modelling/</link>
-      <pubDate>Mon, 15 Feb 2021 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/behaviour-modelling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Body language</title>
       <link>https://sagarjoglekar.com/tags/body-language/</link>
       <pubDate>Mon, 15 Feb 2021 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/body-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Future of work</title>
-      <link>https://sagarjoglekar.com/tags/future-of-work/</link>
-      <pubDate>Mon, 15 Feb 2021 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/future-of-work/</guid>
       <description></description>
     </item>
     
@@ -93,7 +93,7 @@
     </item>
     
     <item>
-      <title>social networks</title>
+      <title>Social Networks</title>
       <link>https://sagarjoglekar.com/tags/social-networks/</link>
       <pubDate>Tue, 21 Jul 2020 16:19:15 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/social-networks/</guid>
@@ -121,14 +121,6 @@
       <link>https://sagarjoglekar.com/tags/nlp/</link>
       <pubDate>Sun, 29 Apr 2018 12:51:11 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>measurements</title>
-      <link>https://sagarjoglekar.com/tags/measurements/</link>
-      <pubDate>Sun, 29 Apr 2018 12:50:02 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/measurements/</guid>
       <description></description>
     </item>
     

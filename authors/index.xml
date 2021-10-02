@@ -5,7 +5,7 @@
     <link>https://sagarjoglekar.com/authors/</link>
       <atom:link href="https://sagarjoglekar.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Aug 2021 12:29:38 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Sep 2021 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>**Sagar Joglekar**</title>
       <link>https://sagarjoglekar.com/authors/sagar-joglekar/</link>
-      <pubDate>Sun, 15 Aug 2021 12:29:38 +0100</pubDate>
+      <pubDate>Mon, 27 Sep 2021 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/authors/sagar-joglekar/</guid>
       <description></description>
     </item>
@@ -23,8 +23,16 @@
     <item>
       <title>Daniele Quercia</title>
       <link>https://sagarjoglekar.com/authors/daniele-quercia/</link>
-      <pubDate>Sun, 15 Aug 2021 12:29:38 +0100</pubDate>
+      <pubDate>Mon, 27 Sep 2021 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/authors/daniele-quercia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marios Constantinides</title>
+      <link>https://sagarjoglekar.com/authors/marios-constantinides/</link>
+      <pubDate>Mon, 27 Sep 2021 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/authors/marios-constantinides/</guid>
       <description></description>
     </item>
     
@@ -41,14 +49,6 @@
       <link>https://sagarjoglekar.com/authors/luca-maria-aiello/</link>
       <pubDate>Sun, 15 Aug 2021 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/authors/luca-maria-aiello/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marios Constantinides</title>
-      <link>https://sagarjoglekar.com/authors/marios-constantinides/</link>
-      <pubDate>Sun, 15 Aug 2021 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/authors/marios-constantinides/</guid>
       <description></description>
     </item>
     
@@ -145,6 +145,14 @@
       <link>https://sagarjoglekar.com/authors/sumithra-velupillai/</link>
       <pubDate>Tue, 21 Jul 2020 16:19:15 +0100</pubDate>
       <guid>https://sagarjoglekar.com/authors/sumithra-velupillai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chiara Cammarota</title>
+      <link>https://sagarjoglekar.com/authors/chiara-cammarota/</link>
+      <pubDate>Wed, 27 May 2020 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/authors/chiara-cammarota/</guid>
       <description></description>
     </item>
     
