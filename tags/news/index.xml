@@ -5,12 +5,25 @@
     <link>https://sagarjoglekar.com/tags/news/</link>
       <atom:link href="https://sagarjoglekar.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Sep 2021 12:14:56 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Nov 2021 12:14:56 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
       <link>https://sagarjoglekar.com/tags/news/</link>
     </image>
+    
+    <item>
+      <title>Actions and their (lack of) consequences</title>
+      <link>https://sagarjoglekar.com/post/actions_and_consequences/</link>
+      <pubDate>Sun, 07 Nov 2021 12:14:56 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/post/actions_and_consequences/</guid>
+      <description>&lt;p&gt;A while ago I listened to an interesting podcast called the &lt;a href=&#34;https://www.npr.org/2019/10/04/767186846/screaming-into-the-void-how-outrage-is-hijacking-our-culture-and-our-minds?t=1636318769493&#34;&gt;Hidden Brain&lt;/a&gt; on the role of outrage in the tribal social balance of trust.
+Outrage as an emotion played an extremely important role in a tribal society against non-compliant actors. If you got outraged on someone if they betrayed your trust or hoodwinked you, it can quickly translate into a tribal crisis resulting into direct disciplinary consequence, and in most cases depleating the perpetrator of their &lt;a href=&#34;https://en.wikipedia.org/wiki/Social_capital&#34;&gt;social capital&lt;/a&gt;. On the other hand, a fake/pointless expression of outrage can just as quickly deplete you off social capital and trust. So the action of expression of outrage had direct consequences in a more closed and connected society.
+Technology has broadened the boundries of this construct, and now , in theory, your social capital is extended beyond the society into the online social networks. However, the consequences of your actions don&#39;t equally extend, and in some cases may invert in effect. For example, a controversial and false rumour in a tribal society would immediately deplete you off your social capital, quickly turning you into an outcast. On the other hand, a controversial rumour may act as a click bait due to the recommendation systems that power online social networks, and in-turn provide you with an ever increasing audience. Which means you might be in a way rewarded for your (mis)behaviour.&lt;/p&gt;
+&lt;p&gt;Now extend this analogy into the metaverse. Until now, the discretions of malicious actors were limited to controversial or untrue discourse and/or mis-information dissemination. The metaverse would empower these actors to create their own realities, living and sharing it with vulnerable audiences.
+If bias-free moderation of information was a nightmare on the social networks, it is going to be immpssible in the metaverse.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sensing the real world through NHS prescriptions data</title>
