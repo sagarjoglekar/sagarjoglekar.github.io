@@ -5,7 +5,7 @@
     <link>https://sagarjoglekar.com/tags/</link>
       <atom:link href="https://sagarjoglekar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 07 Nov 2021 12:14:56 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 10 Dec 2021 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/img/Sagar_portrait_2021.jpg</url>
       <title>Tags</title>
@@ -13,33 +13,9 @@
     </image>
     
     <item>
-      <title>News</title>
-      <link>https://sagarjoglekar.com/tags/news/</link>
-      <pubDate>Sun, 07 Nov 2021 12:14:56 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Behaviour modelling</title>
-      <link>https://sagarjoglekar.com/tags/behaviour-modelling/</link>
-      <pubDate>Mon, 27 Sep 2021 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/behaviour-modelling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Future of work</title>
-      <link>https://sagarjoglekar.com/tags/future-of-work/</link>
-      <pubDate>Mon, 27 Sep 2021 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/future-of-work/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data Visualization</title>
       <link>https://sagarjoglekar.com/tags/data-visualization/</link>
-      <pubDate>Sun, 15 Aug 2021 12:29:38 +0100</pubDate>
+      <pubDate>Fri, 10 Dec 2021 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/data-visualization/</guid>
       <description></description>
     </item>
@@ -47,7 +23,7 @@
     <item>
       <title>Deep learning</title>
       <link>https://sagarjoglekar.com/tags/deep-learning/</link>
-      <pubDate>Sun, 15 Aug 2021 12:29:38 +0100</pubDate>
+      <pubDate>Fri, 10 Dec 2021 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/deep-learning/</guid>
       <description></description>
     </item>
@@ -55,8 +31,32 @@
     <item>
       <title>Urban Informatics</title>
       <link>https://sagarjoglekar.com/tags/urban-informatics/</link>
-      <pubDate>Sun, 15 Aug 2021 12:29:38 +0100</pubDate>
+      <pubDate>Fri, 10 Dec 2021 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/urban-informatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behaviour modelling</title>
+      <link>https://sagarjoglekar.com/tags/behaviour-modelling/</link>
+      <pubDate>Mon, 15 Nov 2021 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/behaviour-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future of work</title>
+      <link>https://sagarjoglekar.com/tags/future-of-work/</link>
+      <pubDate>Mon, 15 Nov 2021 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/future-of-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://sagarjoglekar.com/tags/news/</link>
+      <pubDate>Sun, 07 Nov 2021 12:14:56 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/news/</guid>
       <description></description>
     </item>
     
