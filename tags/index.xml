@@ -5,12 +5,60 @@
     <link>https://sagarjoglekar.com/tags/</link>
       <atom:link href="https://sagarjoglekar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 10 Dec 2021 12:29:38 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Thu, 17 Feb 2022 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/img/Sagar_portrait_2021.jpg</url>
       <title>Tags</title>
       <link>https://sagarjoglekar.com/tags/</link>
     </image>
+    
+    <item>
+      <title>Behaviour modelling</title>
+      <link>https://sagarjoglekar.com/tags/behaviour-modelling/</link>
+      <pubDate>Thu, 17 Feb 2022 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/behaviour-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future of work</title>
+      <link>https://sagarjoglekar.com/tags/future-of-work/</link>
+      <pubDate>Thu, 17 Feb 2022 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/future-of-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Argumentation</title>
+      <link>https://sagarjoglekar.com/tags/argumentation/</link>
+      <pubDate>Tue, 15 Feb 2022 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/argumentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complex networks</title>
+      <link>https://sagarjoglekar.com/tags/complex-networks/</link>
+      <pubDate>Tue, 15 Feb 2022 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/complex-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning</title>
+      <link>https://sagarjoglekar.com/tags/deep-learning/</link>
+      <pubDate>Tue, 15 Feb 2022 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://sagarjoglekar.com/tags/machine-learning/</link>
+      <pubDate>Tue, 15 Feb 2022 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Visualization</title>
@@ -21,34 +69,10 @@
     </item>
     
     <item>
-      <title>Deep learning</title>
-      <link>https://sagarjoglekar.com/tags/deep-learning/</link>
-      <pubDate>Fri, 10 Dec 2021 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Urban Informatics</title>
       <link>https://sagarjoglekar.com/tags/urban-informatics/</link>
       <pubDate>Fri, 10 Dec 2021 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/urban-informatics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Behaviour modelling</title>
-      <link>https://sagarjoglekar.com/tags/behaviour-modelling/</link>
-      <pubDate>Mon, 15 Nov 2021 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/behaviour-modelling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Future of work</title>
-      <link>https://sagarjoglekar.com/tags/future-of-work/</link>
-      <pubDate>Mon, 15 Nov 2021 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/future-of-work/</guid>
       <description></description>
     </item>
     
@@ -65,30 +89,6 @@
       <link>https://sagarjoglekar.com/tags/body-language/</link>
       <pubDate>Mon, 15 Feb 2021 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/body-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Argumentation</title>
-      <link>https://sagarjoglekar.com/tags/argumentation/</link>
-      <pubDate>Tue, 27 Oct 2020 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/argumentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>complex networks</title>
-      <link>https://sagarjoglekar.com/tags/complex-networks/</link>
-      <pubDate>Tue, 27 Oct 2020 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/complex-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://sagarjoglekar.com/tags/machine-learning/</link>
-      <pubDate>Tue, 27 Oct 2020 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/machine-learning/</guid>
       <description></description>
     </item>
     

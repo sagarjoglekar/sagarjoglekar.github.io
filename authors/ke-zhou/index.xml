@@ -5,12 +5,20 @@
     <link>https://sagarjoglekar.com/authors/ke-zhou/</link>
       <atom:link href="https://sagarjoglekar.com/authors/ke-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Ke Zhou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 15 Nov 2021 12:29:38 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Thu, 17 Feb 2022 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/img/Sagar_portrait_2021.jpg</url>
       <title>Ke Zhou</title>
       <link>https://sagarjoglekar.com/authors/ke-zhou/</link>
     </image>
+    
+    <item>
+      <title>Predicting Meeting Success With Nuanced Emotions</title>
+      <link>https://sagarjoglekar.com/publication/percomp2022/</link>
+      <pubDate>Thu, 17 Feb 2022 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/percomp2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Role of Different Types of Conversations for Meeting Success</title>

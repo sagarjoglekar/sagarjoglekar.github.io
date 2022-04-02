@@ -5,12 +5,20 @@
     <link>https://sagarjoglekar.com/authors/marios-constantinides/</link>
       <atom:link href="https://sagarjoglekar.com/authors/marios-constantinides/index.xml" rel="self" type="application/rss+xml" />
     <description>Marios Constantinides</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 10 Dec 2021 12:29:38 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Thu, 17 Feb 2022 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/img/Sagar_portrait_2021.jpg</url>
       <title>Marios Constantinides</title>
       <link>https://sagarjoglekar.com/authors/marios-constantinides/</link>
     </image>
+    
+    <item>
+      <title>Predicting Meeting Success With Nuanced Emotions</title>
+      <link>https://sagarjoglekar.com/publication/percomp2022/</link>
+      <pubDate>Thu, 17 Feb 2022 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/percomp2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Imagine a Walkable City: Physical activity and urban imageability across 19 major cities</title>

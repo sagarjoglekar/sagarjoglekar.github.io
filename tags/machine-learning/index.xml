@@ -5,12 +5,20 @@
     <link>https://sagarjoglekar.com/tags/machine-learning/</link>
       <atom:link href="https://sagarjoglekar.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 27 Oct 2020 12:29:38 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 15 Feb 2022 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/img/Sagar_portrait_2021.jpg</url>
       <title>Machine Learning</title>
       <link>https://sagarjoglekar.com/tags/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates</title>
+      <link>https://sagarjoglekar.com/publication/www2022/</link>
+      <pubDate>Tue, 15 Feb 2022 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/www2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ranking comment sorting policies in online debates</title>
