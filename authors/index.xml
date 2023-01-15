@@ -5,7 +5,7 @@
     <link>https://sagarjoglekar.com/authors/</link>
       <atom:link href="https://sagarjoglekar.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Thu, 17 Feb 2022 12:29:38 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Wed, 21 Dec 2022 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/img/Sagar_portrait_2021.jpg</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>**Sagar Joglekar**</title>
       <link>https://sagarjoglekar.com/authors/sagar-joglekar/</link>
-      <pubDate>Thu, 17 Feb 2022 12:29:38 +0100</pubDate>
+      <pubDate>Wed, 21 Dec 2022 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/authors/sagar-joglekar/</guid>
       <description></description>
     </item>
@@ -23,8 +23,16 @@
     <item>
       <title>Daniele Quercia</title>
       <link>https://sagarjoglekar.com/authors/daniele-quercia/</link>
-      <pubDate>Thu, 17 Feb 2022 12:29:38 +0100</pubDate>
+      <pubDate>Wed, 21 Dec 2022 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/authors/daniele-quercia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luca Maria Aiello</title>
+      <link>https://sagarjoglekar.com/authors/luca-maria-aiello/</link>
+      <pubDate>Wed, 21 Dec 2022 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/authors/luca-maria-aiello/</guid>
       <description></description>
     </item>
     
@@ -73,14 +81,6 @@
       <link>https://sagarjoglekar.com/authors/sanja-scepanovic/</link>
       <pubDate>Fri, 10 Dec 2021 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/authors/sanja-scepanovic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Luca Maria Aiello</title>
-      <link>https://sagarjoglekar.com/authors/luca-maria-aiello/</link>
-      <pubDate>Mon, 15 Nov 2021 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/authors/luca-maria-aiello/</guid>
       <description></description>
     </item>
     
@@ -354,12 +354,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sagarjoglekar.com/authors/admin/</guid>
       <description>&lt;p&gt;
-I recently discovered a word which I instanty identified with: &#34;Philomath&#34;, or someone who loves learning. I love to solve problems, generally which require building representations of human behaviour from multimodal data sources. I have developed, and used, representation learning methods based on NLP, graphs, and images, to solve such problems. 
+Hello! I am a computer scientist by training, who loves to work on problems which require building representations of human behaviour from multimodal data. I have developed representation learning methods based on NLP, graphs, and images, to solve such problems. 
 &lt;p&gt; 
 &lt;p&gt;I was a King&#39;s India scholar at King&#39;s College London, where I worked on my &lt;a href=&#34;https://kclpure.kcl.ac.uk/portal/en/theses/from-communities-to-crowds(1365a91f-48ae-4071-b46e-f7e253745573).html&#34;&gt;Ph.D. in computer science &lt;/a&gt; at the &lt;a href=&#34;https://kclpure.kcl.ac.uk/portal/en/persons/sagar-joglekar(c955bb8a-f596-4474-98a1-78a1dd9d94ad).html&#34;&gt;Department of Informatics&lt;/a&gt;, under the guidance of &lt;a href=&#34;https://nms.kcl.ac.uk/nishanth.sastry/&#34;&gt;Dr. Nishanth Sastry&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;
-&lt;p&gt;I have graduated with a Masters of Science (M.S.) degree from University of California at Santa Barbara USA,  majoring in signals processing and networks, and a Bachelors of Engineering (B.Eng) from University of Pune India, majoring in Electronics engineering&lt;/p&gt;
-&lt;p&gt;Currently, I am a Machine Learning Scientist at the Expedia Group, where I work on development of ML algorithms that handle curation, ranking, and recommendation of user generated content (text, images, tags, ratings, etc).&lt;/p&gt;
+&lt;p&gt;
+I have graduated with a Masters of Science (M.S.) degree from University of California at Santa Barbara USA,  majoring in signals processing and networks, and a Bachelors of Engineering (B.Eng) from University of Pune India, majoring in Electronics engineering &lt;p&gt;
+&lt;p&gt;Currently, I am work as a Machine Learning Scientist at the Expedia Group, where I work on development of ML algorithms that handle curation, ranking, and recommendation of user generated content (text, images, tags, ratings, etc). &lt;p&gt;
 </description>
     </item>
     

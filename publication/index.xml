@@ -5,12 +5,20 @@
     <link>https://sagarjoglekar.com/publication/</link>
       <atom:link href="https://sagarjoglekar.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright>
     <image>
       <url>https://sagarjoglekar.com/img/Sagar_portrait_2021.jpg</url>
       <title>Publications</title>
       <link>https://sagarjoglekar.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Multidimensional tie strength and economic development</title>
+      <link>https://sagarjoglekar.com/publication/srep22/</link>
+      <pubDate>Wed, 21 Dec 2022 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/publication/srep22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting Meeting Success With Nuanced Emotions</title>

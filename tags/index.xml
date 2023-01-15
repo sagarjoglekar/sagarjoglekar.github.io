@@ -5,7 +5,7 @@
     <link>https://sagarjoglekar.com/tags/</link>
       <atom:link href="https://sagarjoglekar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Thu, 17 Feb 2022 12:29:38 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Wed, 21 Dec 2022 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/img/Sagar_portrait_2021.jpg</url>
       <title>Tags</title>
@@ -15,8 +15,24 @@
     <item>
       <title>Behaviour modelling</title>
       <link>https://sagarjoglekar.com/tags/behaviour-modelling/</link>
-      <pubDate>Thu, 17 Feb 2022 12:29:38 +0100</pubDate>
+      <pubDate>Wed, 21 Dec 2022 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/behaviour-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complex networks</title>
+      <link>https://sagarjoglekar.com/tags/complex-networks/</link>
+      <pubDate>Wed, 21 Dec 2022 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/complex-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://sagarjoglekar.com/tags/machine-learning/</link>
+      <pubDate>Wed, 21 Dec 2022 12:29:38 +0100</pubDate>
+      <guid>https://sagarjoglekar.com/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -37,26 +53,10 @@
     </item>
     
     <item>
-      <title>complex networks</title>
-      <link>https://sagarjoglekar.com/tags/complex-networks/</link>
-      <pubDate>Tue, 15 Feb 2022 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/complex-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep learning</title>
       <link>https://sagarjoglekar.com/tags/deep-learning/</link>
       <pubDate>Tue, 15 Feb 2022 12:29:38 +0100</pubDate>
       <guid>https://sagarjoglekar.com/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://sagarjoglekar.com/tags/machine-learning/</link>
-      <pubDate>Tue, 15 Feb 2022 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/tags/machine-learning/</guid>
       <description></description>
     </item>
     
