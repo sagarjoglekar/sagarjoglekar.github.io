@@ -2,8 +2,8 @@
   "name": "",
   "short_name": "",
   "lang": "en-us",
-  "theme_color": "rgb(0, 136, 204)",
-  "background_color": "rgb(0, 136, 204)",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
   "icons": [{
     "src": "/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",

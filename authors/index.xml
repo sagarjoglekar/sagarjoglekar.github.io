@@ -5,7 +5,7 @@
     <link>https://sagarjoglekar.com/authors/</link>
       <atom:link href="https://sagarjoglekar.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024</copyright><lastBuildDate>Wed, 21 Dec 2022 12:29:38 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025</copyright><lastBuildDate>Wed, 21 Dec 2022 12:29:38 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/img/Sagar_portrait_2021.jpg</url>
       <title>Authors</title>
@@ -354,13 +354,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sagarjoglekar.com/authors/admin/</guid>
       <description>&lt;p&gt;
-Hello! I am a computer scientist by training, who loves to work on problems which require building representations of human behaviour from multimodal data. I have developed representation learning methods based on NLP, graphs, and images, to solve such problems. 
-&lt;p&gt; 
-&lt;p&gt;I was a King&#39;s India scholar at King&#39;s College London, where I worked on my &lt;a href=&#34;https://kclpure.kcl.ac.uk/portal/en/theses/from-communities-to-crowds(1365a91f-48ae-4071-b46e-f7e253745573).html&#34;&gt;Ph.D. in computer science &lt;/a&gt; at the &lt;a href=&#34;https://kclpure.kcl.ac.uk/portal/en/persons/sagar-joglekar(c955bb8a-f596-4474-98a1-78a1dd9d94ad).html&#34;&gt;Department of Informatics&lt;/a&gt;, under the guidance of &lt;a href=&#34;https://nms.kcl.ac.uk/nishanth.sastry/&#34;&gt;Dr. Nishanth Sastry&lt;/a&gt;.&lt;/p&gt;
+I am a Senior Machine Learning Scientist with over 10 years of experience bridging cutting-edge academic research and high-impact industrial applications. My expertise spans deep learning, computer vision, natural language processing, and complex networks, with a focus on developing novel methods that quantify human behavior from multimodal data.
+&lt;/p&gt;
 &lt;p&gt;
+Currently, I work as a Senior Machine Learning Scientist at Intercom&#39;s A.I. Group, where I lead initiatives that bring cutting-edge academic research into production systems. My work focuses on advancing customer support solutions through rigorous A/B testing and the development of scalable ML architectures.
+&lt;/p&gt;
 &lt;p&gt;
-I have graduated with a Masters of Science (M.S.) degree from the University of California at Santa Barbara USA,  majoring in signals processing and networks, and a Bachelors of Engineering (B.Eng) from the University of Pune, India, majoring in Electronics engineering &lt;p&gt;
-&lt;p&gt;Currently, I work as a Machine Learning Scientist at Intercom, where I research and help build the next generation customer engagement software powered by the cutting edge AI tech.&lt;p&gt;
+I completed my &lt;a href=&#34;https://kclpure.kcl.ac.uk/portal/en/theses/from-communities-to-crowds(1365a91f-48ae-4071-b46e-f7e253745573).html&#34;&gt;Ph.D. in Computer Science&lt;/a&gt; at King&#39;s College London as a King&#39;s India Scholar, under the supervision of &lt;a href=&#34;https://nms.kcl.ac.uk/nishanth.sastry/&#34;&gt;Dr. Nishanth Sastry&lt;/a&gt;. My doctoral research focused on quantifying signals from human behaviors driven by subjective perceptions, using data and AI to improve the world around us.
+&lt;/p&gt;
+&lt;p&gt;
+Throughout my career at organizations including Nokia Bell Labs, Expedia Group, and Citrix Systems, I have authored over 40 scientific publications in top-tier venues (Nature, WWW, ICWSM, CSCW), hold multiple patents, and have built both R&amp;D solutions and production systems that solve real-world problems at scale.
+&lt;/p&gt;
 </description>
     </item>
     
