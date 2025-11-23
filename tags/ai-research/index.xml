@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning | </title>
-    <link>https://sagarjoglekar.com/tags/machine-learning/</link>
-      <atom:link href="https://sagarjoglekar.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Machine Learning</description>
+    <title>AI Research | </title>
+    <link>https://sagarjoglekar.com/tags/ai-research/</link>
+      <atom:link href="https://sagarjoglekar.com/tags/ai-research/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI Research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025</copyright><lastBuildDate>Mon, 27 Jan 2025 12:00:00 +0100</lastBuildDate>
     <image>
       <url>https://sagarjoglekar.com/img/Sagar_portrait_2021.jpg</url>
-      <title>Machine Learning</title>
-      <link>https://sagarjoglekar.com/tags/machine-learning/</link>
+      <title>AI Research</title>
+      <link>https://sagarjoglekar.com/tags/ai-research/</link>
     </image>
     
     <item>
@@ -30,54 +30,6 @@
 &lt;p&gt;These research directions reflect a broader shift in applied AI: moving from pure performance optimization to building systems that are practical, controllable, and accessible. As we continue to push the boundaries of what AI agents can do, frameworks like ACR help us navigate the complex landscape of deployment decisions, while the open-source movement ensures that powerful AI capabilities remain accessible to a broader community.&lt;/p&gt;
 &lt;p&gt;Looking ahead, the next frontier of applied research work centers on &lt;strong&gt;model alignment&lt;/strong&gt;—ensuring that AI systems not only perform well on benchmarks but also behave in ways that are aligned with human values, organizational goals, and real-world constraints. This represents a natural evolution from understanding what models can do to ensuring they do it in ways that are safe, reliable, and truly useful in production environments.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Multidimensional tie strength and economic development</title>
-      <link>https://sagarjoglekar.com/publication/srep22/</link>
-      <pubDate>Wed, 21 Dec 2022 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/publication/srep22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates</title>
-      <link>https://sagarjoglekar.com/publication/www2022/</link>
-      <pubDate>Tue, 15 Feb 2022 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/publication/www2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ranking comment sorting policies in online debates</title>
-      <link>https://sagarjoglekar.com/publication/argcomp/</link>
-      <pubDate>Tue, 27 Oct 2020 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/publication/argcomp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Humane Visual AI: Telling the Stories Behind a Medical Condition</title>
-      <link>https://sagarjoglekar.com/publication/iwwwvis_2/</link>
-      <pubDate>Thu, 10 Sep 2020 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/publication/iwwwvis_2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Who Has the Last Word? Understanding How to Sample Online Discussions</title>
-      <link>https://sagarjoglekar.com/publication/tweb/</link>
-      <pubDate>Wed, 27 May 2020 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/publication/tweb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stop Tracking Me Bro! Differential Tracking Of User Demographics On Hyper-partisan Websites</title>
-      <link>https://sagarjoglekar.com/publication/www2020/</link>
-      <pubDate>Sun, 26 Jan 2020 12:29:38 +0100</pubDate>
-      <guid>https://sagarjoglekar.com/publication/www2020/</guid>
-      <description></description>
     </item>
     
   </channel>
