@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fun | </title>
+    <link>https://sagarjoglekar.com/tags/fun/</link>
+      <atom:link href="https://sagarjoglekar.com/tags/fun/index.xml" rel="self" type="application/rss+xml" />
+    <description>fun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026</copyright><lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sagarjoglekar.com/img/Sagar_portrait_2021.jpg</url>
+      <title>fun</title>
+      <link>https://sagarjoglekar.com/tags/fun/</link>
+    </image>
+    
+    <item>
+      <title>Arya&#39;s Space Adventure</title>
+      <link>https://sagarjoglekar.com/project/arya-game/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://sagarjoglekar.com/project/arya-game/</guid>
+      <description>&lt;p&gt;A space adventure game designed and created by Arya, age 6!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
