@@ -27,31 +27,33 @@ document.addEventListener('DOMContentLoaded', () => {
   sections.forEach(section => sectionObserver.observe(section));
 
   // --- Publication Filter Toggle ---
+  const RECENT_COUNT = 5;
   const pubToggles = document.querySelectorAll('.pub-toggle');
   const pubItems = document.querySelectorAll('.pub-item');
-  const pubYearGroups = document.querySelectorAll('.pub-year-group');
+
+  function applyFilter(filter) {
+    pubItems.forEach(item => {
+      const idx = parseInt(item.dataset.idx);
+      if (filter === 'recent') {
+        item.classList.toggle('hidden', idx > RECENT_COUNT);
+      } else if (filter === 'all') {
+        item.classList.remove('hidden');
+      } else if (filter === 'selected') {
+        item.classList.toggle('hidden', !item.dataset.selected);
+      } else {
+        item.classList.toggle('hidden', item.dataset.type !== filter);
+      }
+    });
+  }
+
+  // Apply "recent" filter on load
+  applyFilter('recent');
 
   pubToggles.forEach(btn => {
     btn.addEventListener('click', () => {
       pubToggles.forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      const filter = btn.dataset.filter;
-
-      pubItems.forEach(item => {
-        if (filter === 'all') {
-          item.classList.remove('hidden');
-        } else if (filter === 'selected') {
-          item.classList.toggle('hidden', !item.dataset.selected);
-        } else {
-          item.classList.toggle('hidden', item.dataset.type !== filter);
-        }
-      });
-
-      // Hide year groups that have no visible items
-      pubYearGroups.forEach(group => {
-        const visible = group.querySelectorAll('.pub-item:not(.hidden)');
-        group.style.display = visible.length === 0 ? 'none' : '';
-      });
+      applyFilter(btn.dataset.filter);
     });
   });
 
