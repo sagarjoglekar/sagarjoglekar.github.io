@@ -1,2478 +1,690 @@
 <!DOCTYPE html>
-<html lang="en-us">
-
+<html lang="en">
 <head>
-
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.7.0">
-
-  
-
-  
-  
-  
-  
-  
-    
-    
-    
-  
-  
-
-  <meta name="author" content="Sagar Joglekar, Ph.D.">
-
-  
-  
-  
-    
-  
-  <meta name="description" content="Senior Machine Learning Scientist">
-
-  
-  <link rel="alternate" hreflang="en-us" href="https://sagarjoglekar.com/">
-
-  
-
-
-  
-  
-  
-  <meta name="theme-color" content="#2962ff">
-  
-
-  
-  
-  
-  <script src="/js/mathjax-config.js"></script>
-  
-
-  
-  
-  
-  
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
-
-    
-    
-    
-      
-    
-    
-      
-      
-        
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
-        
-      
-    
-
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
-    
-
-    
-
-    
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
-      
-    
-      
-
-      
-      
-
-      
-    
-
-  
-
-  
-  
-  
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700%7CCharter:400,400i,700,700i%7CJetBrains+Mono:400,500,600&display=swap">
-  
-
-  
-  
-  
-  
-  <link rel="stylesheet" href="/css/academic.css">
-
-  
-
-
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-92686513-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           document.location = url;
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target);  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-92686513-1', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
-  
-
-
-  
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="">
-  
-
-  <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu7af283a5d9317cf38f40f4f6167b8cb8_2839_192x192_fill_lanczos_center_2.png">
-
-  <link rel="canonical" href="https://sagarjoglekar.com/">
-
-  
-  
-  
-  
-  
-    
-  
-  
-  <meta property="twitter:card" content="summary_large_image">
-  
-  <meta property="twitter:site" content="@SagarJoglekar">
-  <meta property="twitter:creator" content="@SagarJoglekar">
-  
-  <meta property="og:site_name" content="">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sagar Joglekar, Ph.D.</title>
+  <meta name="description" content="Staff Machine Learning Scientist at Intercom. Research in deep learning, complex networks, computational social dynamics, and representation learning.">
+  <meta name="author" content="Sagar Joglekar">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Sagar Joglekar, Ph.D.">
+  <meta property="og:description" content="Staff Machine Learning Scientist at Intercom. Research in deep learning, complex networks, and computational social dynamics.">
+  <meta property="og:type" content="website">
   <meta property="og:url" content="https://sagarjoglekar.com/">
-  <meta property="og:title" content="">
-  <meta property="og:description" content="Senior Machine Learning Scientist"><meta property="og:image" content="https://sagarjoglekar.com/img/Sagar_portrait_2021.jpg">
-  <meta property="twitter:image" content="https://sagarjoglekar.com/img/Sagar_portrait_2021.jpg"><meta property="og:locale" content="en-us">
-  
-    <meta property="og:updated_time" content="2025-01-27T12:00:00&#43;01:00">
-  
+  <meta property="og:image" content="https://sagarjoglekar.com/img/Sagar_portrait_2021.jpg">
 
-  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@SagarJoglekar">
+  <meta name="twitter:title" content="Sagar Joglekar, Ph.D.">
+  <meta name="twitter:description" content="Staff Machine Learning Scientist at Intercom.">
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://sagarjoglekar.com/?q={search_term_string}",
-    "query-input": "required name=search_term_string"
-  },
-  "url": "https://sagarjoglekar.com/"
-}
-</script>
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:wght@400;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 
-
-  
-
-
-  
-
-
-  
-
-
-
-
-
-  <title></title>
-
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/style.css">
 </head>
+<body>
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" >
-
-  <aside class="search-results" id="search">
-  <div class="container">
-    <section class="search-header">
-
-      <div class="row no-gutters justify-content-between mb-3">
-        <div class="col-6">
-          <h1>Search</h1>
-        </div>
-        <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
-        </div>
-      </div>
-
-      <div id="search-box">
-        
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
-        
-      </div>
-
-    </section>
-    <section class="section-search-results">
-
-      <div id="search-hits">
-        
-      </div>
-
-    </section>
-  </div>
-</aside>
-
-
-  
-
-
-
-
-
-
-
-<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container">
-
-    
-    <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/"></a>
-    </div>
-    
-
-    
-    <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-    <span><i class="fas fa-bars"></i></span>
-    </button>
-    
-
-    
-    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/"></a>
-    </div>
-    
-
-    
-    
-    <div class="navbar-collapse main-menu-item collapse justify-content-center" id="navbar-content">
-
-      
-      <ul class="navbar-nav d-md-inline-flex">
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#experience" data-target="#experience"><span>Experience</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#posts" data-target="#posts"><span>Posts</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#projects" data-target="#projects"><span>Projects</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#publications" data-target="#publications"><span>Publications</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#talks" data-target="#talks"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/files/sagar_cv3.pdf"><span>CV</span></a>
-        </li>
-
-        
-        
-
-      
-
-        
-      </ul>
-    </div>
-
-    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
-      
-      <li class="nav-item">
-        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-      </li>
-      
-
-      
-      <li class="nav-item">
-        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-      </li>
-      
-
-      
-
+<!-- ============ NAVIGATION ============ -->
+<nav class="nav" role="navigation" aria-label="Main navigation">
+  <div class="nav-inner">
+    <span class="nav-name">Sagar Joglekar</span>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#publications">Publications</a></li>
+      <li><a href="#posts">Posts</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#talks">Talks</a></li>
+      <li><a href="files/Sagar_Joglekar_cv_2025.pdf" target="_blank" rel="noopener" style="color:var(--accent);">CV</a></li>
     </ul>
-
   </div>
 </nav>
 
-
-  
-
-
-
-
-
-
-
-
-
-<span class="js-widget-page d-none"></span>
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="about" class="home-section wg-about   "  >
-    <div class="container">
-      
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4">
-    <div id="profile">
-
-      
-      
-      <img class="portrait" src="/authors/admin/avatar_hu2ec82b1a77825c779bb4a8fffa4c3258_122637_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
-      
-
-      <div class="portrait-title">
-        <h2>Sagar Joglekar, Ph.D.</h2>
-        <h3>Senior Machine Learning Scientist</h3>
-
-        
-        <h3>
-          <a href="https://fin.ai/research/author/sagarjoglekar/" target="_blank" rel="noopener">
-          <span>Intercom</span>
-          </a>
-        </h3>
-        
-      </div>
-
-      <ul class="network-icon" aria-hidden="true">
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-        <li>
-          <a href="mailto:sagar.joglekar@kcl.ac.uk" >
-            <i class="fas fa-envelope big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://twitter.com/SagarJoglekar" target="_blank" rel="noopener">
-            <i class="fab fa-twitter big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://medium.com/@SagarJoglekar" target="_blank" rel="noopener">
-            <i class="fab fa-medium big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://scholar.google.co.uk/citations?user=kJgQh3MAAAAJ&amp;hl=en%3E" target="_blank" rel="noopener">
-            <i class="ai ai-google-scholar big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://github.com/sagarjoglekar" target="_blank" rel="noopener">
-            <i class="fab fa-github big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://www.linkedin.com/in/sagarjoglekar/" target="_blank" rel="noopener">
-            <i class="fab fa-linkedin big-icon"></i>
-          </a>
-        </li>
-        
-      </ul>
-
-    </div>
-  </div>
-  <div class="col-12 col-lg-8">
-
-    
-    <h1>Biography</h1>
-
-    <p>
-I am a Senior Machine Learning Scientist with over 10 years of experience bridging cutting-edge academic research and high-impact industrial applications. My expertise spans deep learning, computer vision, natural language processing, and complex networks, with a focus on developing novel methods that quantify human behavior from multimodal data.
-</p>
-<p>
-Currently, I work as a Senior Machine Learning Scientist at Intercom's A.I. Group, where I lead initiatives that bring cutting-edge academic research into production systems. My work focuses on advancing customer support solutions through rigorous A/B testing and the development of scalable ML architectures.
-</p>
-<p>
-I completed my <a href="https://kclpure.kcl.ac.uk/portal/en/theses/from-communities-to-crowds(1365a91f-48ae-4071-b46e-f7e253745573).html">Ph.D. in Computer Science</a> at King's College London as a King's India Scholar, under the supervision of <a href="https://www.surrey.ac.uk/people/nishanth-sastry">Dr. Nishanth Sastry</a>. My doctoral research focused on quantifying signals from human behaviors driven by subjective perceptions, using data and AI to improve the world around us.
-</p>
-<p>
-Throughout my career at organizations including Nokia Bell Labs, Expedia Group, and Citrix Systems, I have authored over 40 scientific publications in top-tier venues (Nature, WWW, ICWSM, CSCW), hold multiple patents, and have built both R&D solutions and production systems that solve real-world problems at scale.
-</p>
-
-
-    <div class="row">
-
-      
-      <div class="col-md-5">
-        <h3>Interests</h3>
-        <ul class="ul-interests">
-          
-          <li>Complex Networks</li>
-          
-          <li>Computational Social Dynamics</li>
-          
-          <li>Representation learning</li>
-          
-        </ul>
-      </div>
-      
-
-      
-      <div class="col-md-7">
-        <h3>Education</h3>
-        <ul class="ul-edu fa-ul">
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">Ph.D. in Computer Science, 2015 - 2019</p>
-              <p class="institution">King&#39;s College, London, U.K.</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">Master of Sciences (M.S) , Major in Signals Processing and Networks, 2010 - 2012</p>
-              <p class="institution">University of California, Santa Barbara, C.A. , U.S.A</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">B.Eng , Electronics Engineering, 2004 - 2008</p>
-              <p class="institution">University of Pune, India</p>
-            </div>
-          </li>
-          
-        </ul>
-      </div>
-      
-
-    </div>
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="posts" class="home-section wg-pages   "  >
-    <div class="container">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Posts</h1>
-    
-  </div>
-  <div class="col-12 col-lg-8">
-
-    
-
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/applied_research_agents_llms/" >Work update: Applied research at Intercom.</a>
-    </h3>
-
-    
-    <div class="article-style">
-      Much of my applied research work at Intercom focuses on understanding the boundaries of current AI technology. In production …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-          Last updated on
-      
-    
-    Nov 23, 2025
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    3 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/actions_and_consequences/" >Actions and their (lack of) consequences</a>
-    </h3>
-
-    
-    <div class="article-style">
-      A while ago I listened to an interesting podcast called the Hidden Brain on the role of outrage in the tribal social balance of trust. …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-          Last updated on
-      
-    
-    Dec 4, 2021
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    2 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-
-    
-    <div class="see-all">
-      <a href="/post/">
-        See all posts
-        <i class="fas fa-angle-right"></i>
-      </a>
-    </div>
-    
-
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="projects" class="home-section wg-portfolio   "  >
-    <div class="container">
-      
-
-
-
-
-
-
-
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-
-    <h1>Broad areas of work</h1>
-    
-
-  </div>
-  <div class="col-12 col-lg-8">
-
-
-
-    
-
-    
-
-    <div class="isotope projects-container js-layout-masonry ">
-      
-
-        
-        
-        
-
-        
-          
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<div class="project-card project-item isotope-item js-id-complex-networks js-id-NLP">
-  <div class="card">
-    
-    <div class="card-text">
-      <h4><a href="/project/modelsocialsupport/" >Social networks and health</a></h4>
-      
-      <div class="article-style">
-        <p>We as a society have accepted the internet as an extension of the self. The online disinhibition effect sometimes allows us to open up …</p>
-      </div>
-      
-    </div>
-  </div>
-</div>
-
-        
-
-      
-
-        
-        
-        
-
-        
-          
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<div class="project-card project-item isotope-item js-id-Deep-learning js-id-Social-Networks">
-  <div class="card">
-    
-    <div class="card-text">
-      <h4><a href="/project/modeluserengagement/" >Human behaviour on networked systems</a></h4>
-      
-      <div class="article-style">
-        <p>Networked systems went through several phases over the past 40 years. In the first phase the network was a vessel for movement of data. …</p>
-      </div>
-      
-    </div>
-  </div>
-</div>
-
-        
-
-      
-
-        
-        
-        
-
-        
-          
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<div class="project-card project-item isotope-item js-id-Deep-learning js-id-Urban-Informatics">
-  <div class="card">
-    
-    <div class="card-text">
-      <h4><a href="/project/theurbanexposome/" >Quantifying the Urban Exposome</a></h4>
-      
-      <div class="article-style">
-        <p>The 21st century would witness one of the largest urban migration in human history. A lot of research has gone into understanding the …</p>
-      </div>
-      
-    </div>
-  </div>
-</div>
-
-        
-
-      
-    </div>
-
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="publications" class="home-section wg-pages   "  >
-    <div class="container">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Selected Publications</h1>
-    
-  </div>
-  <div class="col-12 col-lg-8">
-
-    <div class="alert alert-note">
-  <div>
-    Quickly discover relevant content by <a href="https://sagarjoglekar.com/publication/">filtering publications</a>.
-  </div>
-</div>
-
-
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-
-
-  
-  <span><a href="/authors/luca-maria-aiello/">Luca Maria Aiello</a></span>, <span><a href="/authors/sagar-joglekar/"><strong>Sagar Joglekar</strong></a></span>, <span><a href="/authors/daniele-quercia/">Daniele Quercia</a></span>
-
-  </span>
-  (2022).
-  <a href="/publication/srep22/">Multidimensional tie strength and economic development</a>.
-  Multidimensional tie strength and economic development.
-  
-  <p>
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nature.com/articles/s41598-022-26245-4" target="_blank" rel="noopener">
-  Preprint
-</a>
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nature.com/articles/s41598-022-26245-4" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/modeluserengagement/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nature.com/articles/s41598-022-26245-4" target="_blank" rel="noopener">
-  Source Document
-</a>
-
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-
-
-  
-  <span><a href="/authors/ke-zhou/">Ke Zhou</a></span>, <span><a href="/authors/marios-constantinides/">Marios Constantinides</a></span>, <span><a href="/authors/sagar-joglekar/"><strong>Sagar Joglekar</strong></a></span>, <span><a href="/authors/daniele-quercia/">Daniele Quercia</a></span>
-
-  </span>
-  (2022).
-  <a href="/publication/percomp2022/">Predicting Meeting Success With Nuanced Emotions</a>.
-  Predicting Meeting Success With Nuanced Emotions.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://social-dynamics.net/docs/meetings-emotions.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/modeluserengagement/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/abstract/document/9715794" target="_blank" rel="noopener">
-  Source Document
-</a>
-
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-
-
-  
-  <span><a href="/authors/vibhor-agarwal/">Vibhor Agarwal</a></span>, <span><a href="/authors/sagar-joglekar/"><strong>Sagar Joglekar</strong></a></span>, <span><a href="/authors/anthony-p-young/">Anthony P Young</a></span>, <span><a href="/authors/nishanth-sastry/">Nishanth Sastry</a></span>
-
-  </span>
-  (2022).
-  <a href="/publication/www2022/">GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates</a>.
-  GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates.
-  
-  <p>
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2202.08175.pdf" target="_blank" rel="noopener">
-  Preprint
-</a>
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/modeluserengagement/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-
-
-  
-  <span><a href="/authors/marios-constantinides/">Marios Constantinides</a></span>, <span><a href="/authors/sagar-joglekar/"><strong>Sagar Joglekar</strong></a></span>, <span><a href="/authors/sanja-scepanovic/">Sanja Scepanovic</a></span>, <span><a href="/authors/daniele-quercia/">Daniele Quercia</a></span>
-
-  </span>
-  (2021).
-  <a href="/publication/epj_2021/">Imagine a Walkable City: Physical activity and urban imageability across 19 major cities</a>.
-  Imagine a Walkable City: Physical activity and urban imageability across 19 major cities.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://epjdatascience.springeropen.com/track/pdf/10.1140/epjds/s13688-021-00313-7.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://social-dynamics.net/walkability/" target="_blank" rel="noopener">
-  Dataset
-</a>
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/theurbanexposome/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00313-7" target="_blank" rel="noopener">
-  Source Document
-</a>
-
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-
-
-  
-  <span><a href="/authors/ke-zhou/">Ke Zhou</a></span>, <span><a href="/authors/marios-constantinides/">Marios Constantinides</a></span>, <span><a href="/authors/luca-maria-aiello/">Luca Maria Aiello</a></span>, <span><a href="/authors/sagar-joglekar/"><strong>Sagar Joglekar</strong></a></span>, <span><a href="/authors/daniele-quercia/">Daniele Quercia</a></span>
-
-  </span>
-  (2021).
-  <a href="/publication/percomp2021_meetings/">The Role of Different Types of Conversations for Meeting Success</a>.
-  The Role of Different Types of Conversations for Meeting Success.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://social-dynamics.net/docs/meetings10dims.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/modeluserengagement/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/abstract/document/9611071" target="_blank" rel="noopener">
-  Source Document
-</a>
-
-
-
-</p>
-
-  
-  
-</div>
-
-      
-    
-
-    
-    <div class="see-all">
-      <a href="/publication/">
-        See all publications
-        <i class="fas fa-angle-right"></i>
-      </a>
-    </div>
-    
-
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="experience" class="home-section wg-experience   "  >
-    <div class="container">
-      
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Experience</h1>
-    
-  </div>
-  <div class="col-12 col-lg-8">
-    
-
-    
-    
-    
-    <div class="row experience">
-      
-      <div class="col-auto text-center flex-column d-none d-sm-flex">
-        <div class="row h-50">
-          <div class="col ">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-        <div class="m-2">
-          <span class="badge badge-pill border exp-fill">&nbsp;</span>
-        </div>
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-      </div>
-      
-      <div class="col py-2">
-        <div class="card">
-          <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Senior Machine Learning Scientist</h4>
-            <h4 class="card-title exp-company text-muted my-0"><a href="https://www.intercom.com/" target="_blank" rel="noopener">Intercom</a></h4>
-            <div class="text-muted exp-meta">
-              Oct 2023 –
-              
-                Present
-              
-              
-                <span class="middot-divider"></span>
-                <span>London, UK</span>
-              
-            </div>
-            <div class="card-text">Help research and build the next generation customer engagement software powered by AI.</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div class="row experience">
-      
-      <div class="col-auto text-center flex-column d-none d-sm-flex">
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-        <div class="m-2">
-          <span class="badge badge-pill border ">&nbsp;</span>
-        </div>
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-      </div>
-      
-      <div class="col py-2">
-        <div class="card">
-          <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Machine Learning Scientist</h4>
-            <h4 class="card-title exp-company text-muted my-0"><a href="https://medium.com/expedia-group-tech/tagged/data-science" target="_blank" rel="noopener">Expedia Group</a></h4>
-            <div class="text-muted exp-meta">
-              Jul 2021 –
-              
-                Sep 2023
-              
-              
-                <span class="middot-divider"></span>
-                <span>London, UK</span>
-              
-            </div>
-            <div class="card-text">I work with the Content Data Science team to develop machine learning algorithms and services that deal with curation, ranking, and retrieval of any and all content hosted on the Expedia Group products.</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div class="row experience">
-      
-      <div class="col-auto text-center flex-column d-none d-sm-flex">
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-        <div class="m-2">
-          <span class="badge badge-pill border ">&nbsp;</span>
-        </div>
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-      </div>
-      
-      <div class="col py-2">
-        <div class="card">
-          <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Research Scientist</h4>
-            <h4 class="card-title exp-company text-muted my-0"><a href="https://www.bell-labs.com/connect/global-locations/cambridge-uk/" target="_blank" rel="noopener">Nokia Bell Labs</a></h4>
-            <div class="text-muted exp-meta">
-              Jun 2019 –
-              
-                Jul 2021
-              
-              
-                <span class="middot-divider"></span>
-                <span>Cambridge, UK</span>
-              
-            </div>
-            <div class="card-text">As a member of the Bell labs social dynamics team, I have been working on questions that try to redefine our relationships with data. I primarily work on problems dealing with machine learning and statistical inference with a stress on impacts on healthcare and urbanism. The work generally involves mathematically modelling an off-line phenomenon through the online data that it generates.</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div class="row experience">
-      
-      <div class="col-auto text-center flex-column d-none d-sm-flex">
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-        <div class="m-2">
-          <span class="badge badge-pill border ">&nbsp;</span>
-        </div>
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-      </div>
-      
-      <div class="col py-2">
-        <div class="card">
-          <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Head of Research</h4>
-            <h4 class="card-title exp-company text-muted my-0"><a href="https://firedrop.ai" target="_blank" rel="noopener">Firedrop.ai</a></h4>
-            <div class="text-muted exp-meta">
-              Apr 2016 –
-              
-                Jun 2017
-              
-              
-                <span class="middot-divider"></span>
-                <span>London, UK</span>
-              
-            </div>
-            <div class="card-text">Research and Development. Advisor for all things ML</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div class="row experience">
-      
-      <div class="col-auto text-center flex-column d-none d-sm-flex">
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-        <div class="m-2">
-          <span class="badge badge-pill border ">&nbsp;</span>
-        </div>
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-      </div>
-      
-      <div class="col py-2">
-        <div class="card">
-          <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Senior Software engineer</h4>
-            <h4 class="card-title exp-company text-muted my-0"><a href="https://www.citrix.com/en-gb/" target="_blank" rel="noopener">Citrix systems</a></h4>
-            <div class="text-muted exp-meta">
-              Feb 2012 –
-              
-                Sep 2015
-              
-              
-                <span class="middot-divider"></span>
-                <span>Santa Barbara, California, USA</span>
-              
-            </div>
-            <div class="card-text">Development of distributed media encoder/decoder protocols for the client/server side libraries used in Citrix collaborations and conferencing products (e,g, GoToMeeting , GoToAssist, GoToWebinar)</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div class="row experience">
-      
-      <div class="col-auto text-center flex-column d-none d-sm-flex">
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-        <div class="m-2">
-          <span class="badge badge-pill border ">&nbsp;</span>
-        </div>
-        <div class="row h-50">
-          <div class="col ">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-      </div>
-      
-      <div class="col py-2">
-        <div class="card">
-          <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Research Engineer</h4>
-            <h4 class="card-title exp-company text-muted my-0"><a href="https://www.infosys.com/newsroom/features/2008/SETLabs-innovation-partner.html" target="_blank" rel="noopener">Infosys research Labs</a></h4>
-            <div class="text-muted exp-meta">
-              Jul 2008 –
-              
-                Jul 2010
-              
-              
-                <span class="middot-divider"></span>
-                <span>Bangalore/Pune India</span>
-              
-            </div>
-            <div class="card-text">Research, prototyping, and development hand over in state of the art DRM, multimedia security and delivery systems</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="talks" class="home-section wg-pages   "  >
-    <div class="container">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Recent &amp; Upcoming Talks</h1>
-    
-  </div>
-  <div class="col-12 col-lg-8">
-
-    
-
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="view-list-item">
-  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
-  <a href="/talk/defence_talk/" >Ph.D. Defence talk</a>
-
-  
-  <div class="article-metadata">
-    <span>
-      Dec 6, 2019 9:00 AM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Bush House 5.01(S), 30 Aldwych, London, WC2B 4BG, United Kingdom</span>
-    
-  </div>
-  
-
-  
-
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="view-list-item">
-  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
-  <a href="/talk/ctr_workshop/" >CTR_workshop</a>
-
-  
-  <div class="article-metadata">
-    <span>
-      Apr 30, 2018 9:00 AM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Bush House 5.01(S), 30 Aldwych, London, WC2B 4BG, United Kingdom</span>
-    
-  </div>
-  
-
-  
-
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="view-list-item">
-  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
-  <a href="/talk/socinfo2017/" >SocInfo2017</a>
-
-  
-  <div class="article-metadata">
-    <span>
-      Sep 13, 2017 4:45 PM
-    </span>
-    
-  </div>
-  
-
-  
-
-  
-
-</div>
-
-      
-    
-
-    
-
-  </div>
-</div>
-
-    </div>
-  </section>
-
-
-
-      
-
-    
-    
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
-
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.3/mermaid.min.js" integrity="" crossorigin="anonymous" title="mermaid"></script>
-      
-
-      
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
-        
-      
-
-    
-
-    
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
-    
-
-    
-    
-    <script>const code_highlighting = true;</script>
-    
-
-    
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks"
-        };
-    </script>
-    
-
-    
-    
-
-    
-    
-    <script id="search-hit-fuse-template" type="text/x-template">
-      <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
-        </div>
-      </div>
-      </div>
-    </script>
-    
-
-    
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
-    
-
-    
-    
-
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    
-    
-    
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
-
-    
-
-
-
-
-
-
-  
-  
+<!-- ============ HERO ============ -->
+<section class="hero" id="hero">
   <div class="container">
-    <footer class="site-footer">
-  
+    <div class="hero-inner">
+      <img src="img/Sagar_portrait_2021.jpg" alt="Sagar Joglekar" class="hero-photo">
+      <div class="hero-content">
+        <h1 class="hero-name">Sagar Joglekar, Ph.D.</h1>
+        <p class="hero-role">Machine Learning Scientist</p>
+        <p class="hero-org"><a href="https://fin.ai/research/author/sagarjoglekar/" target="_blank" rel="noopener">Intercom</a></p>
 
-  <p class="powered-by">
-    © 2026 &middot; 
+        <div class="hero-bio">
+          <p>I am a Staff Machine Learning Scientist with over 10 years of experience bridging cutting-edge academic research and high-impact industrial applications. My expertise spans deep learning, computer vision, natural language processing, and complex networks, with a focus on developing novel methods that quantify human behavior from multimodal data.</p>
+          <p>Currently, I work as a Staff Machine Learning Scientist at Intercom's A.I. Group, where I lead initiatives that bring cutting-edge academic research into production systems. My work focuses on advancing customer support solutions through rigorous A/B testing and the development of scalable ML architectures.</p>
+          <p>I completed my <a href="https://kclpure.kcl.ac.uk/portal/en/theses/from-communities-to-crowds(1365a91f-48ae-4071-b46e-f7e253745573).html" target="_blank" rel="noopener">Ph.D. in Computer Science</a> at King's College London as a King's India Scholar, under the supervision of <a href="https://www.surrey.ac.uk/people/nishanth-sastry" target="_blank" rel="noopener">Dr. Nishanth Sastry</a>. My doctoral research focused on quantifying signals from human behaviors driven by subjective perceptions, using data and AI to improve the world around us.</p>
+          <p>Throughout my career at organizations including Nokia Bell Labs, Expedia Group, and Citrix Systems, I have authored over 40 scientific publications in top-tier venues (Nature, WWW, ICWSM, CSCW), hold multiple patents, and have built both R&amp;D solutions and production systems that solve real-world problems at scale.</p>
+        </div>
 
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+        <div class="social-links">
+          <a href="https://scholar.google.co.uk/citations?user=kJgQh3MAAAAJ&hl=en" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.838 3.94A8 8 0 0 1 12 9a8 8 0 0 1 7.162 4.44L24 9.5z"/></svg>
+            Scholar
+          </a>
+          <a href="https://github.com/sagarjoglekar" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
+            GitHub
+          </a>
+          <a href="https://www.linkedin.com/in/sagarjoglekar/" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+            LinkedIn
+          </a>
+          <a href="https://medium.com/@SagarJoglekar" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24"><path d="M13.54 12a6.8 6.8 0 01-6.77 6.82A6.8 6.8 0 010 12a6.8 6.8 0 016.77-6.82A6.8 6.8 0 0113.54 12zM20.96 12c0 3.54-1.51 6.42-3.38 6.42-1.87 0-3.39-2.88-3.39-6.42s1.52-6.42 3.39-6.42 3.38 2.88 3.38 6.42M24 12c0 3.17-.53 5.75-1.19 5.75-.66 0-1.19-2.58-1.19-5.75s.53-5.75 1.19-5.75C23.47 6.25 24 8.83 24 12z"/></svg>
+            Medium
+          </a>
+          <a href="https://twitter.com/SagarJoglekar" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            X
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-    
-    <span class="float-right" aria-hidden="true">
-      <a href="#" class="back-to-top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
+<!-- ============ ABOUT ============ -->
+<section class="about" id="about">
+  <div class="container">
+    <h2 class="section-title">About</h2>
+    <div class="about-grid">
+      <div>
+        <h3>Education</h3>
+        <ul class="education-list">
+          <li>
+            <div class="edu-degree">Ph.D. in Computer Science</div>
+            <div class="edu-institution">King's College, London, U.K.</div>
+            <div class="edu-year">2015 &ndash; 2019</div>
+          </li>
+          <li>
+            <div class="edu-degree">M.S. in Signals Processing and Networks</div>
+            <div class="edu-institution">University of California, Santa Barbara, U.S.A.</div>
+            <div class="edu-year">2010 &ndash; 2012</div>
+          </li>
+          <li>
+            <div class="edu-degree">B.Eng in Electronics Engineering</div>
+            <div class="edu-institution">University of Pune, India</div>
+            <div class="edu-year">2004 &ndash; 2008</div>
+          </li>
+        </ul>
+      </div>
+      <div>
+        <h3>Research Interests</h3>
+        <ul class="interests-list">
+          <li>Complex Networks</li>
+          <li>Computational Social Dynamics</li>
+          <li>Representation Learning</li>
+          <li>Deep Learning</li>
+          <li>Natural Language Processing</li>
+          <li>Urban Informatics</li>
+          <li>AI Agents</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ EXPERIENCE ============ -->
+<section class="experience" id="experience">
+  <div class="container">
+    <h2 class="section-title">Experience</h2>
+    <div class="timeline">
+
+      <div class="timeline-item">
+        <div class="timeline-title">Staff Machine Learning Scientist</div>
+        <div><a class="timeline-company" href="https://fin.ai/research/author/sagarjoglekar/" target="_blank" rel="noopener">Intercom</a></div>
+        <div class="timeline-meta">London, UK &middot; Oct 2023 &ndash; Present</div>
+        <p class="timeline-desc">Help research and build the next generation customer engagement software powered by AI.</p>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-title">Machine Learning Scientist</div>
+        <div><a class="timeline-company" href="https://medium.com/expedia-group-tech/tagged/data-science" target="_blank" rel="noopener">Expedia Group</a></div>
+        <div class="timeline-meta">London, UK &middot; Jul 2021 &ndash; Sep 2023</div>
+        <p class="timeline-desc">Developed machine learning algorithms and services for curation, ranking, and retrieval of content across Expedia Group products.</p>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-title">Research Scientist</div>
+        <div><a class="timeline-company" href="https://www.bell-labs.com/connect/global-locations/cambridge-uk/" target="_blank" rel="noopener">Nokia Bell Labs</a></div>
+        <div class="timeline-meta">Cambridge, UK &middot; Jun 2019 &ndash; Jul 2021</div>
+        <p class="timeline-desc">Worked on machine learning and statistical inference with a focus on healthcare and urbanism, mathematically modelling offline phenomena through online data.</p>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-title">Head of Research</div>
+        <div><a class="timeline-company" href="https://firedrop.ai" target="_blank" rel="noopener">Firedrop.ai</a></div>
+        <div class="timeline-meta">London, UK &middot; Apr 2016 &ndash; Jun 2017</div>
+        <p class="timeline-desc">Research and Development. Advisor for all things ML.</p>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-title">Senior Software Engineer</div>
+        <div><a class="timeline-company" href="https://www.citrix.com/" target="_blank" rel="noopener">Citrix Systems</a></div>
+        <div class="timeline-meta">Santa Barbara, CA, USA &middot; Feb 2012 &ndash; Sep 2015</div>
+        <p class="timeline-desc">Development of distributed media encoder/decoder protocols for client/server side libraries in Citrix conferencing products (GoToMeeting, GoToAssist, GoToWebinar).</p>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-title">Research Engineer</div>
+        <div><a class="timeline-company" href="https://www.infosys.com/" target="_blank" rel="noopener">Infosys Research Labs</a></div>
+        <div class="timeline-meta">Bangalore/Pune, India &middot; Jul 2008 &ndash; Jul 2010</div>
+        <p class="timeline-desc">Research, prototyping, and development in state-of-the-art DRM, multimedia security and delivery systems.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ============ PUBLICATIONS ============ -->
+<section class="publications" id="publications">
+  <div class="container">
+    <h2 class="section-title">Publications</h2>
+
+    <div class="pub-controls">
+      <button class="pub-toggle active" data-filter="selected">Selected</button>
+      <button class="pub-toggle" data-filter="all">All</button>
+      <button class="pub-toggle" data-filter="journal">Journal</button>
+      <button class="pub-toggle" data-filter="conference">Conference</button>
+    </div>
+
+    <!-- 2022 -->
+    <div class="pub-year-group">
+      <div class="pub-year">2022</div>
+
+      <div class="pub-item" data-selected="true" data-type="journal">
+        <div class="pub-title">Multidimensional tie strength and economic development <span class="pub-badge selected">Selected</span> <span class="pub-badge journal">Journal</span></div>
+        <div class="pub-authors">Luca Maria Aiello, <strong>Sagar Joglekar</strong>, Daniele Quercia</div>
+        <div class="pub-venue">Scientific Reports, 2022</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://www.nature.com/articles/s41598-022-26245-4" target="_blank" rel="noopener">PDF</a>
+        </div>
+      </div>
+
+      <div class="pub-item hidden" data-type="conference">
+        <div class="pub-title">GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors">Vibhor Agarwal, <strong>Sagar Joglekar</strong>, Anthony P Young, Nishanth Sastry</div>
+        <div class="pub-venue">WWW 2022</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://arxiv.org/pdf/2202.08175.pdf" target="_blank" rel="noopener">Preprint</a>
+        </div>
+      </div>
+
+      <div class="pub-item" data-selected="true" data-type="journal">
+        <div class="pub-title">Predicting Meeting Success With Nuanced Emotions <span class="pub-badge selected">Selected</span> <span class="pub-badge journal">Journal</span></div>
+        <div class="pub-authors">Ke Zhou, Marios Constantinides, <strong>Sagar Joglekar</strong>, Daniele Quercia</div>
+        <div class="pub-venue">IEEE Pervasive Computing, 2022</div>
+        <div class="pub-links">
+          <a class="pub-link" href="http://social-dynamics.net/docs/meetings-emotions.pdf" target="_blank" rel="noopener">PDF</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2021 -->
+    <div class="pub-year-group">
+      <div class="pub-year">2021</div>
+
+      <div class="pub-item" data-selected="true" data-type="journal">
+        <div class="pub-title">The Role of Different Types of Conversations for Meeting Success <span class="pub-badge selected">Selected</span> <span class="pub-badge journal">Journal</span></div>
+        <div class="pub-authors">Ke Zhou, Marios Constantinides, Luca Maria Aiello, <strong>Sagar Joglekar</strong>, Daniele Quercia</div>
+        <div class="pub-venue">IEEE Pervasive Computing, 2021</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://social-dynamics.net/docs/meetings10dims.pdf" target="_blank" rel="noopener">PDF</a>
+        </div>
+      </div>
+
+      <div class="pub-item hidden" data-type="conference">
+        <div class="pub-title">Imagine a Walkable City: Physical activity and urban imageability across 19 major cities <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors">Marios Constantinides, <strong>Sagar Joglekar</strong>, Sanja Scepanovic, Daniele Quercia</div>
+        <div class="pub-venue">EPJ Data Science, 2021</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://epjdatascience.springeropen.com/track/pdf/10.1140/epjds/s13688-021-00313-7.pdf" target="_blank" rel="noopener">PDF</a>
+        </div>
+      </div>
+
+      <div class="pub-item hidden" data-type="conference">
+        <div class="pub-title">Retrofitting Meetings for Psychological Safety <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors">Marios Constantinides, <strong>Sagar Joglekar</strong>, Daniele Quercia</div>
+        <div class="pub-venue">CSCW 2021</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://arxiv.org/pdf/2109.12976.pdf" target="_blank" rel="noopener">PDF</a>
+          <a class="pub-link" href="https://arxiv.org/abs/2109.12976" target="_blank" rel="noopener">Preprint</a>
+        </div>
+      </div>
+
+      <div class="pub-item hidden" data-type="journal">
+        <div class="pub-title">How epidemic psychology works on Twitter: evolution of responses to the COVID-19 pandemic in the US <span class="pub-badge journal">Journal</span></div>
+        <div class="pub-authors">Luca Maria Aiello, Daniele Quercia, Ke Zhou, Marios Constantinides, Sanja &#x160;&#x107;epanovi&#x107;, <strong>Sagar Joglekar</strong></div>
+        <div class="pub-venue">Humanities &amp; Social Sciences Communications (Nature), 2021</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://www.nature.com/articles/s41599-021-00861-3.pdf" target="_blank" rel="noopener">PDF</a>
+        </div>
+      </div>
+
+      <div class="pub-item hidden" data-type="conference">
+        <div class="pub-title">KAIROS: Talking Heads and Moving Bodies for Successful Meetings <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors">Jun-Ho Choi, Marios Constantinides, <strong>Sagar Joglekar</strong>, Daniele Quercia</div>
+        <div class="pub-venue">HotMobile 2021</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://researchswinger.org/publications/KAIROS_21.pdf" target="_blank" rel="noopener">PDF</a>
+        </div>
+      </div>
+
+      <div class="pub-item hidden" data-type="conference">
+        <div class="pub-title">Jane Jacobs in the Sky: Predicting Urban Vitality with Open Satellite Data <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors">Sanja Scepanovic, <strong>Sagar Joglekar</strong>, Stephen Law, Daniele Quercia</div>
+        <div class="pub-venue">CSCW 2021</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://dl.acm.org/doi/pdf/10.1145/3449257" target="_blank" rel="noopener">PDF</a>
+        </div>
+      </div>
+
+      <div class="pub-item hidden" data-type="conference">
+        <div class="pub-title">The Healthy States of America: Creating a Health Taxonomy with Social Media <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors">Sanja &#x160;&#x107;epanovi&#x107;, Luca Maria Aiello, Ke Zhou, <strong>Sagar Joglekar</strong>, Daniele Quercia</div>
+        <div class="pub-venue">ICWSM 2021</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://ojs.aaai.org/index.php/ICWSM/article/view/18089/17892" target="_blank" rel="noopener">PDF</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2020 -->
+    <div class="pub-year-group">
+      <div class="pub-year">2020</div>
+
+      <div class="pub-item" data-selected="true" data-type="conference">
+        <div class="pub-title">Characterising User Content on a Multi-lingual Social Network <span class="pub-badge selected">Selected</span> <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors">Pushkal Agarwal, Kiran Garimella, <strong>Sagar Joglekar</strong>, Nishanth Sastry, Gareth Tyson</div>
+        <div class="pub-venue">ICWSM 2020</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://www.aaai.org/ojs/index.php/ICWSM/article/download/7274/7128" target="_blank" rel="noopener">PDF</a>
+        </div>
+      </div>
+
+      <div class="pub-item" data-selected="true" data-type="journal">
+        <div class="pub-title">Analysing Meso and Macro conversation structures in an online suicide support forum <span class="pub-badge selected">Selected</span> <span class="pub-badge journal">Journal</span></div>
+        <div class="pub-authors"><strong>Sagar Joglekar</strong>, Sumithra Velupillai, Rina Dutta, Nishanth Sastry</div>
+        <div class="pub-venue">arXiv preprint, 2020</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://arxiv.org/abs/2007.10159" target="_blank" rel="noopener">Preprint</a>
+        </div>
+      </div>
+
+      <div class="pub-item hidden" data-type="journal">
+        <div class="pub-title">Who Has the Last Word? Understanding How to Sample Online Discussions <span class="pub-badge journal">Journal</span></div>
+        <div class="pub-authors">Boschi G., Young A.P., <strong>Sagar Joglekar</strong>, Chiara Cammarota, Sastry N.</div>
+        <div class="pub-venue">ACM TWEB, 2020</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://dl.acm.org/doi/pdf/10.1145/3452936" target="_blank" rel="noopener">PDF</a>
+        </div>
+      </div>
+
+      <div class="pub-item hidden" data-type="conference">
+        <div class="pub-title">Ranking comment sorting policies in online debates <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors">Young A.P., <strong>Sagar Joglekar</strong>, Boschi G., Sastry N.</div>
+        <div class="pub-venue">Argument &amp; Computation, 2020</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://content.iospress.com/download/argument-and-computation/aac200909?id=argument-and-computation%2Faac200909" target="_blank" rel="noopener">PDF</a>
+        </div>
+      </div>
+
+      <div class="pub-item hidden" data-type="conference">
+        <div class="pub-title">Stop Tracking Me Bro! Differential Tracking Of User Demographics On Hyper-partisan Websites <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors">Pushkal Agarwal, <strong>Sagar Joglekar</strong>, Panagiotis Papadopoulos, Nishanth Sastry, Nicolas Kourtellis</div>
+        <div class="pub-venue">WWW 2020</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://dl.acm.org/doi/pdf/10.1145/3366423.3380221" target="_blank" rel="noopener">PDF</a>
+          <a class="pub-link" href="https://arxiv.org/pdf/2002.00934.pdf" target="_blank" rel="noopener">Preprint</a>
+        </div>
+      </div>
+
+      <div class="pub-item" data-selected="true" data-type="journal">
+        <div class="pub-title">FaceLift: a transparent deep learning framework to beautify urban scenes <span class="pub-badge selected">Selected</span> <span class="pub-badge journal">Journal</span></div>
+        <div class="pub-authors"><strong>Sagar Joglekar</strong>, Daniele Quercia, Miriam Redi, Luca Aiello, Tobias Kauer, Nishanth Sastry</div>
+        <div class="pub-venue">Royal Society Open Science, 2020</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://royalsocietypublishing.org/doi/10.1098/rsos.190987" target="_blank" rel="noopener">Source</a>
+          <a class="pub-link" href="http://www.goodcitylife.org/facelift/" target="_blank" rel="noopener">Project</a>
+        </div>
+      </div>
+
+      <div class="pub-item hidden" data-type="conference">
+        <div class="pub-title">Humane Visual AI: Telling the Stories Behind a Medical Condition <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors">Wonyoung So, Edyta P. Bogucka, Sanja Scepanovic, <strong>Sagar Joglekar</strong>, Ke Zhou, Daniele Quercia</div>
+        <div class="pub-venue">IEEE VIS 2020</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://ieeexplore.ieee.org/abstract/document/9222264" target="_blank" rel="noopener">PDF</a>
+          <a class="pub-link" href="https://arxiv.org/abs/2010.06296" target="_blank" rel="noopener">Preprint</a>
+        </div>
+      </div>
+
+      <div class="pub-item hidden" data-type="conference">
+        <div class="pub-title">MeetCues: Supporting Online Meetings Experience <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors">Aseniero (Bon Adriel), Marios Constantinides, <strong>Sagar Joglekar</strong>, Ke Zhou, Daniele Quercia</div>
+        <div class="pub-venue">IEEE VIS 2020</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://arxiv.org/abs/2010.06259" target="_blank" rel="noopener">Preprint</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2019 -->
+    <div class="pub-year-group">
+      <div class="pub-year">2019</div>
+
+      <div class="pub-item" data-selected="true" data-type="conference">
+        <div class="pub-title">Challenges in the Decentralised Web: The Mastodon Case <span class="pub-badge selected">Selected</span> <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors">Aravindh Raman, <strong>Sagar Joglekar</strong>, Emiliano De Cristofaro, Nishanth Sastry, Gareth Tyson</div>
+        <div class="pub-venue">IMC 2019</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://arxiv.org/pdf/1909.05801.pdf" target="_blank" rel="noopener">Preprint</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2018 -->
+    <div class="pub-year-group">
+      <div class="pub-year">2018</div>
+
+      <div class="pub-item" data-selected="true" data-type="journal">
+        <div class="pub-title">Mapping and Visualizing Deep-Learning Urban Beautification <span class="pub-badge selected">Selected</span> <span class="pub-badge journal">Journal</span></div>
+        <div class="pub-authors">Tobias Kauer, <strong>Sagar Joglekar</strong>, Daniele Quercia, Miriam Redi, Luca Aiello</div>
+        <div class="pub-venue">IEEE Computer Graphics &amp; Applications, 2018</div>
+        <div class="pub-links">
+          <a class="pub-link" href="http://www.goodcitylife.org/facelift/" target="_blank" rel="noopener">Project</a>
+        </div>
+      </div>
+
+      <div class="pub-item" data-selected="true" data-type="journal">
+        <div class="pub-title">How do online communities of people with long-term conditions function and evolve? <span class="pub-badge selected">Selected</span> <span class="pub-badge journal">Journal</span></div>
+        <div class="pub-authors"><strong>Sagar Joglekar</strong>, Nishanth Sastry, Anna Di Simoni, Pietro Panzarasa et al.</div>
+        <div class="pub-venue">JMIR, 2018</div>
+        <div class="pub-links">
+          <a class="pub-link" href="http://www.jmir.org/2018/7/e238/pdf" target="_blank" rel="noopener">PDF</a>
+          <a class="pub-link" href="https://www.youtube.com/watch?v=faukEFxGNCI" target="_blank" rel="noopener">Video</a>
+        </div>
+      </div>
+
+      <div class="pub-item hidden" data-type="conference">
+        <div class="pub-title">Illuminating an ecosystem of partisan websites <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors">Shweta Bhat, <strong>Sagar Joglekar</strong>, Shehar Bano, Nishanth Sastry</div>
+        <div class="pub-venue">WWW 2018</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://arxiv.org/pdf/1803.03576.pdf" target="_blank" rel="noopener">Preprint</a>
+          <a class="pub-link" href="https://www.nms.kcl.ac.uk/netsys/datasets/partisan-news/" target="_blank" rel="noopener">Dataset</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2017 -->
+    <div class="pub-year-group">
+      <div class="pub-year">2017</div>
+
+      <div class="pub-item" data-selected="true" data-type="conference">
+        <div class="pub-title">Like at First Sight: Understanding User Engagement with the World of Microvideos <span class="pub-badge selected">Selected</span> <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors"><strong>Sagar Joglekar</strong>, Miriam Redi, Nishanth Sastry</div>
+        <div class="pub-venue">SocInfo 2017</div>
+        <div class="pub-links">
+          <a class="pub-link" href="files/SocInfo2017.pdf" target="_blank" rel="noopener">PDF</a>
+        </div>
+      </div>
+
+      <div class="pub-item hidden" data-type="conference">
+        <div class="pub-title">Structure and dynamics of online patients' communities: the case of Asthma UK and BLF online fora <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors">Anna de Simoni, <strong>Sagar Joglekar</strong>, Nishanth Sastry, Pietro Panzarasa et al.</div>
+        <div class="pub-venue">ERS 2017</div>
+        <div class="pub-links">
+          <a class="pub-link" href="http://erj.ersjournals.com/content/50/suppl_61/OA3202" target="_blank" rel="noopener">Source</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2014 -->
+    <div class="pub-year-group" style="display:none;">
+      <div class="pub-year">2014</div>
+
+      <div class="pub-item hidden" data-type="journal">
+        <div class="pub-title">Robust transcoding resistant watermarking for H.264 standard <span class="pub-badge journal">Journal</span></div>
+        <div class="pub-authors">Rohit Nair, Vijayraghavan V, <strong>Sagar Joglekar</strong> et al.</div>
+        <div class="pub-venue">Multimedia Tools &amp; Applications, 2014</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://link.springer.com/article/10.1007%2Fs11042-012-1208-8" target="_blank" rel="noopener">Source</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2012 -->
+    <div class="pub-year-group" style="display:none;">
+      <div class="pub-year">2012</div>
+
+      <div class="pub-item hidden" data-type="conference">
+        <div class="pub-title">An Innovative System for Remote and Automated Testing of Mobile Phone Applications <span class="pub-badge conference">Conference</span></div>
+        <div class="pub-authors">Karthikeyan Dhanapal, <strong>Sagar Joglekar</strong>, Arun Somasundara et al.</div>
+        <div class="pub-venue">SRII 2012</div>
+        <div class="pub-links">
+          <a class="pub-link" href="https://ieeexplore.ieee.org/abstract/document/6310980/" target="_blank" rel="noopener">Source</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ============ POSTS ============ -->
+<section class="posts" id="posts">
+  <div class="container">
+    <h2 class="section-title">Posts</h2>
+    <div class="posts-grid">
+
+      <a href="posts/applied-research-agents-llms.html" class="post-item">
+        <div>
+          <div class="post-title">Work update: Applied research at Intercom</div>
+          <div class="post-summary">On the boundaries of current AI technology &mdash; David vs Goliath in LLMs, Agency-Control-Reliability tradeoffs, and model alignment.</div>
+          <div class="post-tags"><span class="post-tag">AI Research</span><span class="post-tag">LLMs</span><span class="post-tag">Agents</span></div>
+        </div>
+        <span class="post-date">Jan 2025</span>
       </a>
-    </span>
-    
-  </p>
+
+      <a href="posts/actions-and-consequences.html" class="post-item">
+        <div>
+          <div class="post-title">Actions and their (lack of) consequences</div>
+          <div class="post-summary">On the role of outrage in tribal social balance &mdash; and what it means for the metaverse.</div>
+        </div>
+        <span class="post-date">Nov 2021</span>
+      </a>
+
+      <a href="posts/nhs-prescriptions.html" class="post-item">
+        <div>
+          <div class="post-title">Sensing the real world through NHS prescriptions data</div>
+          <div class="post-summary">Using NHS prescriptions data to create proxies for population health across geographic units.</div>
+        </div>
+        <span class="post-date">Sep 2021</span>
+      </a>
+
+      <a href="posts/expedia.html" class="post-item">
+        <div>
+          <div class="post-title">The cost of being on the fence</div>
+          <div class="post-summary">Reflections on transitioning from blue-sky research at Bell Labs to product-oriented data science at Expedia Group.</div>
+        </div>
+        <span class="post-date">Jul 2021</span>
+      </a>
+
+      <a href="posts/facelift.html" class="post-item">
+        <div>
+          <div class="post-title">Press cover for FaceLift</div>
+          <div class="post-summary">FaceLift published in Royal Society Open Science &mdash; a deep learning framework to beautify urban scenes. Covered by Fast Company and Cosmos Magazine.</div>
+          <div class="post-tags"><span class="post-tag">Urban Informatics</span></div>
+        </div>
+        <span class="post-date">Jan 2020</span>
+      </a>
+
+      <!-- Older posts (hidden by default) -->
+      <div class="older-posts" id="older-posts" style="display:none;">
+
+      <a href="posts/tracking-press-cover.html" class="post-item">
+        <div>
+          <div class="post-title">WWW 2020 paper covered by Wired</div>
+          <div class="post-summary">Wired covered our paper on measuring differential ad-tracking behavior on hyper-partisan websites.</div>
+          <div class="post-tags"><span class="post-tag">Partisan News</span></div>
+        </div>
+        <span class="post-date">Feb 2020</span>
+      </a>
+
+      <a href="posts/defense.html" class="post-item">
+        <div>
+          <div class="post-title">Successfully defended the Ph.D.</div>
+          <div class="post-summary">&ldquo;From Communities to Crowds: Quantifying the subjective&rdquo; &mdash; defended at King's College London.</div>
+        </div>
+        <span class="post-date">Dec 2019</span>
+      </a>
+
+      <a href="posts/bell-labs.html" class="post-item">
+        <div>
+          <div class="post-title">Started as a Research Scientist at Bell Labs, UK</div>
+          <div class="post-summary">Joining the Social Dynamics team at Bell Labs Cambridge to work on urban informatics, social health, and AI for social good.</div>
+        </div>
+        <span class="post-date">Jun 2019</span>
+      </a>
+
+      <a href="posts/epsrc-pioneers.html" class="post-item">
+        <div>
+          <div class="post-title">FaceLift: Top 16 Ph.D. projects @ EPSRC Pioneers</div>
+          <div class="post-summary">Our FaceLift project shortlisted among the top 16 UK Ph.D. projects at the EPSRC Pioneers competition.</div>
+          <div class="post-tags"><span class="post-tag">Deep Learning</span></div>
+        </div>
+        <span class="post-date">Nov 2018</span>
+      </a>
+
+      <a href="posts/nvidia-grant.html" class="post-item">
+        <div>
+          <div class="post-title">Nvidia GPU Grant for Netsys Lab</div>
+          <div class="post-summary">Received the Nvidia GPU seed grant to upgrade deep learning compute infrastructure.</div>
+        </div>
+        <span class="post-date">Jul 2018</span>
+      </a>
+
+      <a href="posts/partisan-ecosystem.html" class="post-item">
+        <div>
+          <div class="post-title">WWW 2018 work covered by BuzzFeed News</div>
+          <div class="post-summary">Our research on the ecosystem of hyper-partisan news sources was covered by BuzzFeed News.</div>
+          <div class="post-tags"><span class="post-tag">Partisan News</span></div>
+        </div>
+        <span class="post-date">Aug 2017</span>
+      </a>
+
+      </div>
+
+      <button class="pub-toggle" id="posts-toggle" onclick="var el=document.getElementById('older-posts');var btn=this;if(el.style.display==='none'){el.style.display='';btn.textContent='Show fewer'}else{el.style.display='none';btn.textContent='Show all posts'}" style="margin-top:16px;">Show all posts</button>
+
+    </div>
+  </div>
+</section>
+
+<!-- ============ PROJECTS ============ -->
+<section class="projects" id="projects">
+  <div class="container">
+    <h2 class="section-title">Projects</h2>
+    <div class="projects-grid">
+
+      <a class="project-card" href="projects/social-networks-health.html">
+        <img src="img/SocialSupport.png" alt="Social networks and health" class="project-img">
+        <div class="project-body">
+          <h3 class="project-title">Social Networks and Health</h3>
+          <p class="project-desc">Studying how online communities provide social support and health signals. Using complex networks and NLP to develop tools that understand population health from subtle online signals.</p>
+          <div class="project-tags">
+            <span class="post-tag">Complex Networks</span>
+            <span class="post-tag">NLP</span>
+          </div>
+        </div>
+      </a>
+
+      <a class="project-card" href="projects/human-behaviour-networked-systems.html">
+        <img src="img/kialo.png" alt="Human behaviour on networked systems" class="project-img">
+        <div class="project-body">
+          <h3 class="project-title">Human Behaviour on Networked Systems</h3>
+          <p class="project-desc">Measurement and modelling of human behavior across networked systems &mdash; from data movement to the symbiosis between real and virtual worlds.</p>
+          <div class="project-tags">
+            <span class="post-tag">Deep Learning</span>
+            <span class="post-tag">Social Networks</span>
+          </div>
+        </div>
+      </a>
+
+      <a class="project-card" href="projects/urban-exposome.html">
+        <img src="img/explanation-2000.png" alt="Quantifying the Urban Exposome" class="project-img">
+        <div class="project-body">
+          <h3 class="project-title">Quantifying the Urban Exposome</h3>
+          <p class="project-desc">Using deep learning, complex networks, GIS, and NLP to quantify how facets of our urban environment impact health and well-being. Featured in Fast Company and Cosmos Magazine.</p>
+          <div class="project-tags">
+            <span class="post-tag">Deep Learning</span>
+            <span class="post-tag">Urban Informatics</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ============ TALKS ============ -->
+<section class="talks" id="talks">
+  <div class="container">
+    <h2 class="section-title">Talks</h2>
+
+    <div class="talk-item">
+      <div class="talk-title">Ph.D. Defence Talk</div>
+      <div class="talk-event">Ph.D. Defence Overview Talk</div>
+      <div class="talk-meta">Dec 2019 &middot; King's College London</div>
+      <div class="talk-links">
+        <a class="pub-link" href="https://www.slideshare.net/sagarjoglekar/dissertation-presentation-203515811" target="_blank" rel="noopener">Slides</a>
+      </div>
+    </div>
+
+    <div class="talk-item">
+      <div class="talk-title">CTR Workshop 2018</div>
+      <div class="talk-event">Center for Telecommunications Research Workshop</div>
+      <div class="talk-meta">May 2018 &middot; King's College London</div>
+      <div class="talk-links">
+        <a class="pub-link" href="https://www.slideshare.net/secret/LUCeLiDBGhhfN8" target="_blank" rel="noopener">Slides</a>
+      </div>
+    </div>
+
+    <div class="talk-item">
+      <div class="talk-title">SocInfo 2017</div>
+      <div class="talk-event"><a href="https://socinfo2017.oii.ox.ac.uk/" target="_blank" rel="noopener">9th Conference on Social Informatics</a></div>
+      <div class="talk-meta">Sep 2017 &middot; Oxford, UK</div>
+      <div class="talk-links">
+        <a class="pub-link" href="https://www.slideshare.net/secret/t8K4jJhCJ4vs3q" target="_blank" rel="noopener">Slides</a>
+        <a class="pub-link" href="files/SocInfo2017.pdf" target="_blank" rel="noopener">PDF</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ============ FOOTER ============ -->
+<footer class="footer">
+  <div class="footer-content">
+    <div class="footer-links">
+      <a href="https://scholar.google.co.uk/citations?user=kJgQh3MAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="https://github.com/sagarjoglekar" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://www.linkedin.com/in/sagarjoglekar/" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://medium.com/@SagarJoglekar" target="_blank" rel="noopener">Medium</a>
+      <a href="files/Sagar_Joglekar_cv_2025.pdf" target="_blank" rel="noopener">CV (PDF)</a>
+    </div>
+    <p>&copy; 2025 Sagar Joglekar. Built with plain HTML, CSS, and JavaScript.</p>
+  </div>
 </footer>
 
-  </div>
-  
-
-  
-<div id="modal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
-      </div>
-      <div class="modal-footer">
-        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
-        </a>
-        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
-        </a>
-        <div id="modal-error"></div>
-      </div>
-    </div>
-  </div>
-</div>
-
+<!-- Scripts -->
+<script src="js/main.js"></script>
 </body>
 </html>
