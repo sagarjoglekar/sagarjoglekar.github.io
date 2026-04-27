@@ -47,6 +47,7 @@ body {
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
 }
 
 a {
@@ -118,6 +119,22 @@ img {
 .nav-links a.active {
   color: var(--accent);
   background: var(--tag-bg);
+}
+
+/* Hamburger menu button (hidden on desktop) */
+.nav-hamburger {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  color: var(--text-primary);
+}
+
+.nav-hamburger svg {
+  width: 24px;
+  height: 24px;
+  fill: currentColor;
 }
 
 /* --- Sections --- */
@@ -377,6 +394,7 @@ section {
   display: flex;
   gap: 12px;
   margin-bottom: 24px;
+  flex-wrap: wrap;
 }
 
 .pub-toggle {
@@ -685,12 +703,131 @@ a.project-card {
   font-size: 0.85rem;
 }
 
-/* --- Responsive --- */
+/* --- Post & Project Page Styles (shared, for sub-pages) --- */
+.post-page,
+.project-page {
+  padding-top: calc(var(--nav-height) + 60px);
+  padding-bottom: 80px;
+}
+
+.post-page .container { max-width: 720px; }
+.project-page .container { max-width: 760px; }
+
+.post-page h1,
+.project-page h1 {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  margin-bottom: 12px;
+  line-height: 1.3;
+}
+
+.post-page .post-meta {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-bottom: 32px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--border);
+}
+
+.post-page .post-body,
+.project-page .project-body {
+  color: var(--text-secondary);
+  font-size: 1rem;
+  line-height: 1.85;
+}
+
+.post-page .post-body p,
+.project-page .project-body p { margin-bottom: 16px; }
+
+.post-page .post-body h2 {
+  font-family: var(--font-heading);
+  font-size: 1.4rem;
+  color: var(--text-primary);
+  margin: 32px 0 16px;
+}
+
+.post-page .post-body h3 {
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  color: var(--text-primary);
+  margin: 24px 0 12px;
+}
+
+.post-page .post-body a,
+.project-page .project-body a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.post-page .post-body img {
+  border-radius: 8px;
+  margin: 20px 0;
+  border: 1px solid var(--border);
+}
+
+.post-page .post-body strong { color: var(--text-primary); }
+
+.post-page .back-link,
+.project-page .back-link {
+  display: inline-block;
+  margin-bottom: 24px;
+  color: var(--accent);
+  font-size: 0.9rem;
+}
+
+.project-page .project-hero-img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 32px;
+  border: 1px solid var(--border);
+}
+
+.project-page .tag-list {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.project-page .tag-list span {
+  background: var(--tag-bg);
+  color: var(--tag-text);
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.82rem;
+  font-weight: 500;
+}
+
+.project-page .related-pubs { margin-top: 40px; }
+.project-page .related-pubs h2 {
+  font-family: var(--font-heading);
+  font-size: 1.3rem;
+  margin-bottom: 16px;
+  color: var(--text-primary);
+}
+.project-page .related-pubs ul { list-style: none; }
+.project-page .related-pubs li {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border);
+}
+.project-page .related-pubs li:last-child { border-bottom: none; }
+.project-page .related-pubs .rp-title { font-weight: 600; font-size: 0.95rem; color: var(--text-primary); }
+.project-page .related-pubs .rp-authors { font-size: 0.85rem; color: var(--text-secondary); }
+.project-page .related-pubs .rp-venue { font-size: 0.8rem; color: var(--text-muted); font-style: italic; }
+
+.project-page .press-list { margin-top: 24px; }
+.project-page .press-list h3 { font-family: var(--font-heading); font-size: 1.1rem; margin-bottom: 12px; color: var(--text-primary); }
+.project-page .press-list ul { list-style: disc; padding-left: 20px; }
+.project-page .press-list li { padding: 4px 0; color: var(--text-secondary); font-size: 0.95rem; }
+
+/* --- Responsive: Tablet (768px) --- */
 @media (max-width: 768px) {
   .hero-inner {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    gap: 24px;
   }
 
   .hero-photo {
@@ -702,58 +839,282 @@ a.project-card {
     max-width: 100%;
   }
 
+  .hero-name {
+    font-size: 2rem;
+  }
+
   .social-links {
     justify-content: center;
   }
 
   .about-grid {
     grid-template-columns: 1fr;
-    gap: 32px;
-  }
-
-  .nav-name {
-    font-size: 0.95rem;
-  }
-
-  .nav-links a {
-    font-size: 0.78rem;
-    padding: 4px 8px;
+    gap: 28px;
   }
 
   .section-title {
     font-size: 1.5rem;
   }
 
-  .hero-name {
-    font-size: 2rem;
-  }
-
   .post-item {
     flex-direction: column;
-    gap: 4px;
+    gap: 6px;
   }
 
   .projects-grid {
     grid-template-columns: 1fr;
   }
+
+  .footer-links {
+    flex-wrap: wrap;
+    gap: 12px;
+  }
 }
 
-@media (max-width: 480px) {
+/* --- Responsive: Small Tablet / Large Phone (640px) — Hamburger Nav --- */
+@media (max-width: 640px) {
+  .nav-hamburger {
+    display: block;
+  }
+
   .nav-links {
+    display: none;
+    position: absolute;
+    top: var(--nav-height);
+    left: 0;
+    right: 0;
+    background: var(--bg-nav);
+    backdrop-filter: blur(12px);
+    flex-direction: column;
+    padding: 12px 24px 20px;
+    border-bottom: 1px solid var(--border);
     gap: 4px;
   }
 
-  .nav-links a {
-    font-size: 0.72rem;
-    padding: 4px 6px;
+  .nav.nav-open .nav-links {
+    display: flex;
   }
 
+  .nav-links a {
+    font-size: 0.9rem;
+    padding: 10px 12px;
+    border-radius: 6px;
+  }
+
+  .nav-links a:hover,
+  .nav-links a.active {
+    background: var(--tag-bg);
+  }
+}
+
+/* --- Responsive: Phone (480px) --- */
+@media (max-width: 480px) {
   section {
-    padding: 60px 16px;
+    padding: 50px 14px;
   }
 
   .hero {
     padding-top: calc(var(--nav-height) + 40px);
+    padding-bottom: 40px;
+  }
+
+  .hero-name {
+    font-size: 1.5rem;
+  }
+
+  .hero-role {
+    font-size: 0.95rem;
+  }
+
+  .hero-org a {
+    font-size: 0.9rem;
+  }
+
+  .hero-inner {
+    gap: 16px;
+  }
+
+  .hero-photo {
+    width: 120px;
+    height: 120px;
+  }
+
+  .social-links {
+    gap: 8px;
+  }
+
+  .social-links a {
+    padding: 5px 10px;
+    font-size: 0.8rem;
+    gap: 4px;
+  }
+
+  .social-links svg {
+    width: 14px;
+    height: 14px;
+  }
+
+  .section-title {
+    font-size: 1.3rem;
+    margin-bottom: 28px;
+  }
+
+  .timeline {
+    padding-left: 20px;
+  }
+
+  .timeline-item::before {
+    left: -20px;
+    width: 8px;
+    height: 8px;
+  }
+
+  .timeline-item {
+    padding-bottom: 28px;
+  }
+
+  .timeline-title {
+    font-size: 0.95rem;
+  }
+
+  .timeline-desc {
+    font-size: 0.85rem;
+  }
+
+  .pub-toggle {
+    padding: 6px 14px;
+    font-size: 0.8rem;
+  }
+
+  .pub-controls {
+    gap: 8px;
+  }
+
+  .pub-title {
+    font-size: 0.88rem;
+  }
+
+  .pub-badge {
+    font-size: 0.6rem;
+    padding: 1px 5px;
+    margin-left: 4px;
+  }
+
+  .pub-link {
+    padding: 5px 12px;
+    font-size: 0.8rem;
+  }
+
+  .pub-authors {
+    font-size: 0.8rem;
+  }
+
+  .post-item {
+    padding: 14px 16px;
+  }
+
+  .post-title {
+    font-size: 0.88rem;
+  }
+
+  .post-summary {
+    font-size: 0.8rem;
+  }
+
+  .project-img {
+    height: 150px;
+  }
+
+  .project-body {
+    padding: 16px;
+  }
+
+  .project-title {
+    font-size: 0.95rem;
+  }
+
+  .project-desc {
+    font-size: 0.8rem;
+  }
+
+  .talk-title {
+    font-size: 0.9rem;
+  }
+
+  .talk-event {
+    font-size: 0.85rem;
+  }
+
+  .talk-meta {
+    font-size: 0.8rem;
+  }
+
+  .footer {
+    padding: 30px 14px;
+  }
+
+  .footer-links {
+    gap: 10px;
+  }
+
+  .footer-links a {
+    font-size: 0.8rem;
+  }
+
+  /* Sub-pages */
+  .post-page h1,
+  .project-page h1 {
+    font-size: 1.5rem;
+  }
+
+  .post-page,
+  .project-page {
+    padding-top: calc(var(--nav-height) + 40px);
+    padding-bottom: 50px;
+  }
+
+  .post-page .post-body h2 {
+    font-size: 1.2rem;
+  }
+
+  .project-page .project-hero-img {
+    margin-bottom: 20px;
+  }
+}
+
+/* --- Responsive: Small Phone (360px) --- */
+@media (max-width: 360px) {
+  section {
+    padding: 40px 12px;
+  }
+
+  .hero-name {
+    font-size: 1.3rem;
+  }
+
+  .hero-photo {
+    width: 100px;
+    height: 100px;
+  }
+
+  .timeline {
+    padding-left: 16px;
+  }
+
+  .timeline-item::before {
+    left: -16px;
+  }
+
+  .project-img {
+    height: 130px;
+  }
+
+  .pub-badge {
+    display: none;
+  }
+
+  .social-links a span {
+    display: none;
   }
 }
 
