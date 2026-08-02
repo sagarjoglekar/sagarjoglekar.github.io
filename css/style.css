@@ -3,26 +3,31 @@
    Dark/Minimal Theme
    ============================================ */
 
-/* --- CSS Custom Properties --- */
+/* --- CSS Custom Properties ---
+   Signal (amber) = the subjective/individual voice — thesis, emphasis, "selected" work.
+   Crowd (teal) = the collective/network — links, venues, tags, orgs.
+   The pairing is drawn from the thesis title: "From Communities to Crowds". --- */
 :root {
-  --bg-primary: #0f0f1a;
-  --bg-secondary: #161625;
-  --bg-card: #1c1c2e;
-  --bg-nav: rgba(15, 15, 26, 0.95);
-  --text-primary: #e0e0e8;
-  --text-secondary: #9a9ab0;
-  --text-muted: #6b6b82;
-  --accent: #5b8def;
-  --accent-hover: #7aa5f5;
-  --accent-dim: #3a5a9e;
-  --border: #2a2a40;
-  --tag-bg: #1e2a3a;
-  --tag-text: #7aa5f5;
-  --selected-badge: #2a4a2a;
-  --selected-text: #6fcf6f;
-  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  --font-heading: 'Source Serif 4', 'Charter', Georgia, serif;
-  --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+  --bg-primary: #0b0e13;
+  --bg-secondary: #12161f;
+  --bg-card: #171c27;
+  --bg-nav: rgba(11, 14, 19, 0.92);
+  --text-primary: #eae6df;
+  --text-secondary: #9296a8;
+  --text-muted: #5b5f70;
+  --accent: #3fa9a4;
+  --accent-hover: #6fc4bf;
+  --accent-dim: #2d7d79;
+  --signal: #e0a458;
+  --signal-soft: #f0c896;
+  --border: #232838;
+  --tag-bg: rgba(63, 169, 164, 0.12);
+  --tag-text: #7ecdc8;
+  --selected-badge: rgba(224, 164, 88, 0.16);
+  --selected-text: #f0c896;
+  --font-body: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-heading: 'Fraunces', 'Charter', Georgia, serif;
+  --font-mono: 'IBM Plex Mono', 'Fira Code', monospace;
   --max-width: 960px;
   --nav-height: 60px;
 }
@@ -147,6 +152,26 @@ section {
   margin: 0 auto;
 }
 
+.section-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--tag-text);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.section-eyebrow::before {
+  content: '';
+  width: 20px;
+  height: 1px;
+  background: var(--tag-text);
+  opacity: 0.7;
+}
+
 .section-title {
   font-family: var(--font-heading);
   font-size: 1.8rem;
@@ -165,6 +190,26 @@ section {
   background: var(--border);
 }
 
+/* --- Signal-trace divider (signature element) ---
+   A waveform reads directly from the subject: quantifying signal. Used
+   sparingly, at two seams only, so it stays a signature rather than noise. */
+.trace-divider {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.trace-divider svg {
+  width: 100%;
+  height: 28px;
+  display: block;
+}
+
+.trace-divider .trace {
+  fill: none;
+  stroke-width: 1.4;
+}
+
 /* --- Hero Section --- */
 .hero {
   padding-top: calc(var(--nav-height) + 80px);
@@ -179,16 +224,37 @@ section {
 }
 
 .hero-photo {
-  width: 180px;
-  height: 180px;
-  border-radius: 50%;
+  width: 168px;
+  height: 210px;
+  border-radius: 4px;
   object-fit: cover;
-  border: 3px solid var(--border);
+  border: 1px solid var(--border);
+  filter: sepia(0.18) saturate(1.05) hue-rotate(-6deg);
   flex-shrink: 0;
 }
 
 .hero-content {
   flex: 1;
+}
+
+.hero-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--tag-text);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.hero-eyebrow::before {
+  content: '';
+  width: 22px;
+  height: 1px;
+  background: var(--tag-text);
+  opacity: 0.7;
 }
 
 .hero-name {
@@ -197,6 +263,17 @@ section {
   font-weight: 700;
   line-height: 1.2;
   margin-bottom: 8px;
+}
+
+.hero-thesis {
+  font-family: var(--font-heading);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--signal-soft);
+  max-width: 34ch;
+  line-height: 1.35;
+  margin: 16px 0 14px;
 }
 
 .hero-role {
@@ -333,7 +410,8 @@ section {
   top: 8px;
   bottom: 8px;
   width: 2px;
-  background: var(--border);
+  background: linear-gradient(var(--signal), var(--accent));
+  opacity: 0.55;
 }
 
 .timeline-item {
@@ -353,13 +431,14 @@ section {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: var(--accent-dim);
+  background: var(--bg-primary);
   border: 2px solid var(--accent);
 }
 
 .timeline-item:first-child::before {
-  background: var(--accent);
-  box-shadow: 0 0 0 4px var(--tag-bg);
+  background: var(--signal);
+  border-color: var(--signal);
+  box-shadow: 0 0 0 4px var(--selected-badge);
 }
 
 .timeline-title {
@@ -500,13 +579,13 @@ section {
 }
 
 .pub-badge.journal {
-  background: #2a2a4a;
-  color: #a0a0e0;
+  background: rgba(146, 150, 168, 0.14);
+  color: #b7bacc;
 }
 
 .pub-badge.conference {
-  background: #2a3a4a;
-  color: #80c0e0;
+  background: rgba(63, 169, 164, 0.14);
+  color: var(--tag-text);
 }
 
 /* --- Posts --- */
@@ -832,7 +911,7 @@ a.project-card {
 
   .hero-photo {
     width: 140px;
-    height: 140px;
+    height: 175px;
   }
 
   .hero-bio {
@@ -936,7 +1015,7 @@ a.project-card {
 
   .hero-photo {
     width: 120px;
-    height: 120px;
+    height: 150px;
   }
 
   .social-links {
@@ -1094,7 +1173,7 @@ a.project-card {
 
   .hero-photo {
     width: 100px;
-    height: 100px;
+    height: 125px;
   }
 
   .timeline {
